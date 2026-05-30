@@ -1,0 +1,1001 @@
+CustomerID,Gender,Age,Region,CustomerSegment,PreferredPaymentMethod,CustomerTenure_Months,Recency_Days,PurchaseFrequency,AvgOrderValue,TotalRevenue,TotalItemsBought,TotalReturns,FavouriteCategory,CLV
+CUST_0001,Male,34,Europe,Budget,Debit Card,39.1,946,5,79.87,399.35,14,0,Beauty,122.56
+CUST_0002,Female,26,Asia,Mid-Range,Credit Card,57.1,476,4,425.29,1701.17,12,1,Beauty,312.82
+CUST_0003,Male,50,North America,Mid-Range,Credit Card,60.1,169,5,223.21,1116.07,9,2,Beauty,178.27
+CUST_0004,Male,37,Asia,Mid-Range,Debit Card,35.6,186,7,616.97,4318.77,27,0,Electronics,1455.77
+CUST_0005,Male,30,Asia,Mid-Range,Bank Transfer,51.5,375,5,456.56,2282.82,13,1,Electronics,478.72
+CUST_0006,Female,45,South America,Premium,PayPal,52.6,66,5,2727.76,13638.79,18,0,Books,3111.51
+CUST_0007,Male,65,Africa,Mid-Range,PayPal,53.3,161,6,442.96,2657.79,14,1,Sports,548.51
+CUST_0008,Male,46,North America,Mid-Range,Debit Card,56.2,1361,2,469.94,939.89,7,0,Beauty,200.69
+CUST_0009,Male,30,Asia,Budget,Credit Card,35.8,731,2,167.62,335.23,7,1,Beauty,84.28
+CUST_0010,Female,63,North America,Budget,Credit Card,57.4,657,1,36.76,36.76,1,0,Sports,7.69
+CUST_0011,Male,52,Europe,Mid-Range,Bank Transfer,37.8,501,8,506.39,4051.09,28,3,Electronics,1044.93
+CUST_0012,Male,23,South America,Mid-Range,PayPal,35.6,150,3,286.52,859.57,6,0,Beauty,289.74
+CUST_0013,Male,35,Europe,Budget,Bank Transfer,30.5,296,7,95.6,669.22,19,1,Toys,244.49
+CUST_0014,Male,68,North America,Budget,PayPal,42.3,533,2,184.29,368.58,6,0,Food & Grocery,104.56
+CUST_0015,Female,22,North America,Mid-Range,Debit Card,57.9,199,7,572.11,4004.75,18,1,Electronics,770.72
+CUST_0016,Male,64,Africa,Budget,PayPal,40.8,147,7,143.09,1001.6,23,5,Books,189.38
+CUST_0017,Female,42,Asia,Budget,Bank Transfer,46.5,72,8,153.31,1226.5,31,2,Toys,276.95
+CUST_0018,Female,19,Asia,Budget,Bank Transfer,59.8,250,5,79.46,397.32,15,0,Beauty,79.73
+CUST_0019,Female,27,Europe,Budget,Bank Transfer,59.9,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0020,Male,47,South America,Budget,Debit Card,57.7,470,5,135.91,679.55,17,0,Toys,141.33
+CUST_0021,Female,67,Asia,Budget,PayPal,53.5,36,5,147.72,738.6,18,0,Electronics,165.67
+CUST_0022,Male,62,Africa,Mid-Range,PayPal,53.0,74,4,301.61,1206.43,9,0,Beauty,273.16
+CUST_0023,Female,22,Europe,Premium,Bank Transfer,43.7,113,5,928.62,4643.12,10,1,Beauty,1147.49
+CUST_0024,Female,50,Europe,Mid-Range,PayPal,40.4,22,8,689.8,5518.39,28,1,Beauty,1536.68
+CUST_0025,Female,18,Africa,Mid-Range,Credit Card,60.0,40,5,533.47,2667.33,19,0,Toys,533.47
+CUST_0026,Female,35,South America,Budget,Credit Card,41.8,418,9,129.54,1165.84,25,1,Sports,316.1
+CUST_0027,Female,49,Africa,Budget,Credit Card,54.1,208,8,100.1,800.76,25,0,Electronics,177.63
+CUST_0028,Female,64,South America,Mid-Range,PayPal,36.5,1,4,468.57,1874.29,9,1,Beauty,539.18
+CUST_0029,Female,66,Africa,Budget,Debit Card,38.7,479,2,92.14,184.28,5,0,Electronics,57.14
+CUST_0030,Female,28,Africa,Mid-Range,Debit Card,37.0,127,2,183.36,366.72,5,0,Sports,118.94
+CUST_0031,Male,38,North America,Mid-Range,Debit Card,42.3,163,6,488.84,2933.01,17,1,Food & Grocery,762.73
+CUST_0032,Male,43,Europe,Mid-Range,Debit Card,46.6,778,1,438.08,438.08,4,0,Fashion,112.81
+CUST_0033,Female,42,Africa,Budget,Credit Card,53.4,77,3,90.07,270.22,9,1,Books,50.6
+CUST_0034,Female,39,Africa,Budget,Credit Card,45.6,527,2,106.1,212.19,7,0,Beauty,55.84
+CUST_0035,Female,44,Asia,Mid-Range,Bank Transfer,40.8,136,4,502.78,2011.13,15,2,Books,443.63
+CUST_0036,Male,66,Europe,Budget,PayPal,51.4,103,3,57.65,172.95,6,0,Books,40.38
+CUST_0037,Female,30,Asia,Mid-Range,PayPal,33.3,163,5,275.08,1375.4,14,0,Sports,495.64
+CUST_0038,Male,50,Europe,Mid-Range,Debit Card,31.2,263,5,508.12,2540.6,17,2,Electronics,781.72
+CUST_0039,Male,51,Asia,Premium,Credit Card,60.7,281,8,2704.37,21634.94,30,3,Books,3475.14
+CUST_0040,Male,58,Africa,Budget,Debit Card,35.0,201,6,133.89,803.33,20,0,Books,275.43
+CUST_0041,Male,52,Africa,Premium,Bank Transfer,33.4,109,5,2431.85,12159.26,13,0,Electronics,4368.59
+CUST_0042,Male,18,North America,Mid-Range,PayPal,55.5,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0043,Female,38,Asia,Budget,PayPal,37.1,275,5,139.39,696.93,17,2,Beauty,180.34
+CUST_0044,Female,65,South America,Budget,Debit Card,46.5,92,12,114.15,1369.83,35,1,Books,338.77
+CUST_0045,Female,23,North America,Mid-Range,Bank Transfer,49.3,37,6,491.29,2947.75,15,2,Sports,597.92
+CUST_0046,Female,45,Asia,Budget,PayPal,51.4,586,4,64.68,258.74,12,1,Electronics,52.85
+CUST_0047,Female,34,Asia,Budget,Bank Transfer,55.6,148,10,106.44,1064.45,29,1,Beauty,218.24
+CUST_0048,Male,22,North America,Budget,Bank Transfer,53.6,398,5,130.79,653.96,14,0,Beauty,146.41
+CUST_0049,Female,48,Africa,Premium,Debit Card,28.2,861,6,1992.37,11954.2,16,1,Food & Grocery,4662.99
+CUST_0050,Female,22,Asia,Mid-Range,Credit Card,34.9,510,5,249.53,1247.64,11,0,Electronics,428.99
+CUST_0051,Male,55,Africa,Mid-Range,Debit Card,49.4,640,2,311.65,623.31,5,0,Beauty,151.41
+CUST_0052,Female,20,North America,Budget,Credit Card,57.4,90,6,74.57,447.41,22,1,Food & Grocery,85.74
+CUST_0053,Male,40,Africa,Budget,Bank Transfer,57.8,250,3,58.17,174.51,5,0,Beauty,36.23
+CUST_0054,Female,54,Europe,Mid-Range,Credit Card,47.9,37,7,348.05,2436.35,20,1,Books,566.76
+CUST_0055,Male,54,South America,Mid-Range,Bank Transfer,57.6,13,9,353.33,3179.93,26,1,Sports,625.69
+CUST_0056,Female,27,Asia,Budget,PayPal,48.7,25,5,129.37,646.86,14,0,Beauty,159.39
+CUST_0057,Female,27,South America,Mid-Range,PayPal,32.0,908,1,845.77,845.77,4,0,Fashion,317.16
+CUST_0058,Male,36,Africa,Premium,PayPal,49.2,19,4,2141.37,8565.48,11,0,Electronics,2089.14
+CUST_0059,Male,34,Asia,Mid-Range,Debit Card,40.3,155,3,554.2,1662.59,9,0,Beauty,495.07
+CUST_0060,Male,38,Africa,Mid-Range,Debit Card,51.9,275,3,175.49,526.48,8,1,Beauty,101.44
+CUST_0061,Male,31,Europe,Premium,Bank Transfer,33.4,451,3,1815.06,5445.18,8,0,Electronics,1956.35
+CUST_0062,Male,26,North America,Budget,PayPal,59.4,538,4,196.27,785.07,15,0,Beauty,158.6
+CUST_0063,Male,63,Asia,Mid-Range,Debit Card,36.0,173,6,437.86,2627.16,16,0,Toys,875.72
+CUST_0064,Male,18,Europe,Premium,PayPal,45.2,253,5,2194.12,10970.62,15,0,Sports,2912.55
+CUST_0065,Male,68,Europe,Budget,Debit Card,42.6,525,3,60.78,182.34,12,1,Beauty,42.8
+CUST_0066,Female,62,Asia,Mid-Range,Credit Card,56.7,146,6,553.71,3322.25,25,2,Sports,585.94
+CUST_0067,Female,30,Africa,Mid-Range,Credit Card,27.7,552,6,381.06,2286.39,15,2,Food & Grocery,825.4
+CUST_0068,Male,21,Europe,Mid-Range,PayPal,29.4,311,6,320.33,1922.01,14,1,Books,719.11
+CUST_0069,Female,18,South America,Mid-Range,Bank Transfer,48.0,942,4,966.34,3865.36,17,0,Beauty,966.34
+CUST_0070,Female,66,Europe,Premium,Debit Card,58.2,140,4,2029.86,8119.44,13,2,Fashion,1255.58
+CUST_0071,Female,57,Africa,Mid-Range,Debit Card,42.1,18,4,402.75,1611.01,10,0,Books,459.19
+CUST_0072,Female,49,Africa,Budget,Credit Card,50.9,1067,4,166.66,666.63,12,0,Electronics,157.16
+CUST_0073,Male,51,South America,Premium,Credit Card,32.6,54,3,1747.01,5241.04,8,1,Beauty,1607.68
+CUST_0074,Female,45,Europe,Budget,Bank Transfer,39.5,147,8,68.11,544.85,19,1,Food & Grocery,155.19
+CUST_0075,Male,48,Africa,Budget,Bank Transfer,39.8,307,3,32.96,98.89,3,0,Electronics,29.81
+CUST_0076,Female,25,Asia,Mid-Range,Bank Transfer,30.7,233,6,346.37,2078.24,13,0,Food & Grocery,812.33
+CUST_0077,Female,56,North America,Mid-Range,PayPal,31.5,710,4,326.36,1305.45,9,0,Beauty,497.31
+CUST_0078,Female,43,North America,Mid-Range,Credit Card,48.6,249,1,268.6,268.6,3,0,Sports,66.32
+CUST_0079,Male,51,North America,Premium,PayPal,41.2,141,3,2926.7,8780.1,12,0,Beauty,2557.31
+CUST_0080,Female,20,Europe,Mid-Range,Credit Card,54.4,86,5,578.46,2892.28,17,2,Books,510.41
+CUST_0081,Male,67,South America,Mid-Range,Credit Card,36.9,62,5,244.38,1221.92,16,1,Sports,357.63
+CUST_0082,Female,29,Africa,Budget,Debit Card,58.5,52,8,117.36,938.86,24,0,Toys,192.59
+CUST_0083,Male,18,Asia,Premium,Credit Card,59.4,63,4,1185.41,4741.63,10,0,Beauty,957.91
+CUST_0084,Female,61,Asia,Premium,Credit Card,38.3,93,8,2411.75,19294.01,28,1,Home & Garden,5667.3
+CUST_0085,Male,22,Europe,Mid-Range,PayPal,53.1,700,4,507.73,2030.91,13,2,Fashion,344.22
+CUST_0086,Male,47,North America,Budget,Credit Card,34.5,64,8,105.88,847.02,21,1,Food & Grocery,276.21
+CUST_0087,Female,47,Europe,Budget,PayPal,51.0,769,5,132.6,663.02,11,1,Toys,140.4
+CUST_0088,Male,34,South America,Budget,Bank Transfer,58.2,389,5,102.61,513.07,15,1,Toys,95.21
+CUST_0089,Female,65,South America,Budget,Credit Card,31.7,329,3,159.37,478.11,13,0,Beauty,180.99
+CUST_0090,Female,64,Africa,Budget,Credit Card,53.0,310,6,98.2,589.19,23,2,Electronics,111.17
+CUST_0091,Female,40,Africa,Premium,PayPal,31.3,1174,2,1006.33,2012.66,8,0,Beauty,771.63
+CUST_0092,Female,32,South America,Mid-Range,Bank Transfer,57.5,620,5,469.42,2347.09,17,2,Fashion,391.86
+CUST_0093,Female,54,South America,Budget,Debit Card,47.9,18,13,123.48,1605.21,41,2,Food & Grocery,371.21
+CUST_0094,Female,38,South America,Budget,Bank Transfer,51.4,104,10,107.73,1077.35,28,3,Toys,213.78
+CUST_0095,Female,31,Europe,Budget,PayPal,45.4,215,5,87.33,436.66,18,0,Books,115.41
+CUST_0096,Female,19,South America,Budget,Bank Transfer,39.2,135,8,110.55,884.39,24,1,Toys,253.81
+CUST_0097,Female,28,Asia,Budget,PayPal,32.4,530,6,132.41,794.44,21,1,Food & Grocery,269.72
+CUST_0098,Female,68,North America,Budget,PayPal,48.5,1116,2,148.08,296.16,7,0,Electronics,73.28
+CUST_0099,Female,56,South America,Mid-Range,Debit Card,55.4,99,5,288.57,1442.86,11,0,Home & Garden,312.53
+CUST_0100,Male,55,North America,Premium,Credit Card,48.3,347,10,1890.53,18905.29,27,3,Books,3992.42
+CUST_0101,Male,51,Europe,Budget,PayPal,48.8,362,2,194.74,389.48,7,1,Books,71.83
+CUST_0102,Female,55,North America,Mid-Range,PayPal,53.8,24,8,522.38,4179.05,26,0,Electronics,932.13
+CUST_0103,Female,67,Europe,Premium,Debit Card,38.0,66,9,3017.11,27154.0,33,0,Electronics,8574.94
+CUST_0104,Female,51,Asia,Budget,PayPal,51.8,1,5,161.66,808.28,17,1,Electronics,168.53
+CUST_0105,Female,35,Europe,Budget,Credit Card,37.0,2,7,78.27,547.9,15,1,Home & Garden,165.0
+CUST_0106,Female,47,Europe,Premium,Debit Card,28.9,20,7,3024.84,21173.91,27,1,Sports,8163.93
+CUST_0107,Female,32,Africa,Budget,Credit Card,37.6,10,7,122.68,858.79,22,0,Food & Grocery,274.07
+CUST_0108,Female,44,South America,Mid-Range,Credit Card,38.8,224,4,286.4,1145.62,10,1,Food & Grocery,310.02
+CUST_0109,Female,68,South America,Mid-Range,Debit Card,58.5,214,5,503.41,2517.04,16,1,Beauty,464.69
+CUST_0110,Male,51,Asia,Budget,PayPal,40.1,467,6,84.52,507.12,19,1,Electronics,139.11
+CUST_0111,Female,69,Asia,Budget,Credit Card,39.2,338,2,85.1,170.19,6,0,Beauty,52.1
+CUST_0112,Male,55,South America,Mid-Range,Credit Card,55.1,66,4,433.3,1733.2,11,0,Books,377.47
+CUST_0113,Female,50,Africa,Budget,Credit Card,42.7,108,6,92.74,556.44,19,0,Home & Garden,156.38
+CUST_0114,Female,41,South America,Budget,Credit Card,36.0,92,7,77.73,544.09,13,1,Electronics,168.42
+CUST_0115,Male,32,Africa,Mid-Range,Debit Card,52.6,59,6,410.55,2463.29,21,1,Toys,515.14
+CUST_0116,Female,47,Asia,Mid-Range,Debit Card,55.3,169,7,609.75,4268.24,20,2,Sports,793.89
+CUST_0117,Male,59,North America,Budget,Bank Transfer,45.1,20,6,168.96,1013.79,21,1,Beauty,247.26
+CUST_0118,Female,68,Asia,Premium,Bank Transfer,48.0,92,4,1541.37,6165.48,10,1,Food & Grocery,1348.7
+CUST_0119,Female,34,Asia,Budget,Credit Card,51.7,315,2,114.66,229.31,5,0,Books,53.23
+CUST_0120,Male,22,Europe,Premium,PayPal,29.3,556,4,3098.72,12394.89,15,1,Books,4441.85
+CUST_0121,Female,46,Europe,Mid-Range,Credit Card,39.1,376,6,431.58,2589.5,16,0,Books,794.73
+CUST_0122,Male,21,Europe,Mid-Range,PayPal,37.4,319,6,400.51,2403.04,15,0,Toys,771.04
+CUST_0123,Female,27,Europe,Mid-Range,Credit Card,41.9,364,5,514.99,2574.94,21,0,Home & Garden,737.46
+CUST_0124,Male,34,Africa,Premium,Bank Transfer,53.4,158,3,2842.64,8527.92,11,0,Electronics,1916.39
+CUST_0125,Male,27,South America,Budget,Bank Transfer,37.5,283,7,81.32,569.22,21,1,Food & Grocery,169.15
+CUST_0126,Female,34,North America,Mid-Range,PayPal,49.8,948,2,625.93,1251.86,9,0,Fashion,301.65
+CUST_0127,Female,37,Asia,Budget,Credit Card,32.1,86,4,195.28,781.14,17,0,Food & Grocery,292.01
+CUST_0128,Male,41,Africa,Budget,PayPal,34.7,373,7,129.19,904.33,21,1,Toys,290.4
+CUST_0129,Female,22,North America,Budget,Bank Transfer,34.4,178,3,124.45,373.34,7,1,Sports,108.53
+CUST_0130,Female,51,Africa,Premium,Credit Card,59.0,83,4,2101.26,8405.03,14,0,Electronics,1709.5
+CUST_0131,Female,23,Africa,Premium,Credit Card,53.1,442,4,2195.92,8783.66,10,0,Electronics,1985.01
+CUST_0132,Male,19,Asia,Budget,PayPal,32.9,187,3,90.26,270.77,8,0,Books,98.76
+CUST_0133,Male,30,South America,Budget,Debit Card,59.8,19,4,160.56,642.25,16,0,Food & Grocery,128.88
+CUST_0134,Male,60,Europe,Mid-Range,PayPal,33.4,563,3,546.41,1639.23,11,0,Beauty,588.94
+CUST_0135,Male,60,South America,Mid-Range,Bank Transfer,50.1,799,4,356.82,1427.29,12,1,Fashion,299.13
+CUST_0136,Male,65,Asia,Budget,Bank Transfer,47.2,36,5,63.97,319.85,10,0,Electronics,81.32
+CUST_0137,Male,28,Asia,Mid-Range,Bank Transfer,51.8,673,3,469.23,1407.68,11,0,Books,326.11
+CUST_0138,Male,68,Asia,Mid-Range,Bank Transfer,58.7,70,9,346.96,3122.67,29,0,Books,638.36
+CUST_0139,Male,64,North America,Premium,Bank Transfer,53.7,625,1,2439.72,2439.72,2,0,Beauty,545.19
+CUST_0140,Male,40,South America,Budget,Debit Card,29.7,106,7,129.9,909.32,18,0,Food & Grocery,367.39
+CUST_0141,Female,33,South America,Mid-Range,Credit Card,28.7,400,7,547.95,3835.67,23,1,Food & Grocery,1489.2
+CUST_0142,Male,48,Africa,Mid-Range,PayPal,41.6,452,6,544.97,3269.82,21,2,Beauty,786.01
+CUST_0143,Female,28,Africa,Mid-Range,PayPal,31.0,58,3,317.76,953.28,9,1,Fashion,307.51
+CUST_0144,Female,33,Africa,Mid-Range,Bank Transfer,36.4,280,7,340.2,2381.38,18,2,Beauty,672.92
+CUST_0145,Female,25,Asia,Mid-Range,PayPal,50.2,19,6,435.45,2612.68,13,0,Beauty,624.55
+CUST_0146,Male,21,South America,Budget,Bank Transfer,53.7,38,11,114.93,1264.23,33,2,Toys,256.83
+CUST_0147,Male,57,Asia,Premium,Debit Card,38.5,151,6,1932.09,11592.52,16,1,Fashion,3312.15
+CUST_0148,Male,21,North America,Mid-Range,Debit Card,43.9,354,4,640.17,2560.68,16,0,Beauty,699.96
+CUST_0149,Male,42,Africa,Budget,Credit Card,47.4,375,7,132.79,929.51,29,1,Beauty,218.52
+CUST_0150,Female,20,Asia,Mid-Range,Debit Card,30.7,159,3,570.64,1711.91,14,0,Books,669.15
+CUST_0151,Male,49,Asia,Budget,Debit Card,29.7,134,2,83.28,166.57,4,0,Fashion,67.3
+CUST_0152,Male,20,North America,Budget,Credit Card,39.0,152,6,81.76,490.57,18,2,Food & Grocery,125.78
+CUST_0153,Male,44,Europe,Premium,PayPal,45.3,309,8,2415.7,19325.64,24,1,Fashion,4799.4
+CUST_0154,Male,46,South America,Mid-Range,Bank Transfer,56.0,95,7,331.6,2321.2,15,0,Beauty,497.4
+CUST_0155,Male,49,Europe,Mid-Range,Bank Transfer,51.9,522,4,540.73,2162.92,11,1,Food & Grocery,437.58
+CUST_0156,Female,67,Africa,Budget,PayPal,56.2,616,2,176.76,353.53,9,1,Home & Garden,56.61
+CUST_0157,Male,68,Asia,Mid-Range,Credit Card,52.5,369,3,412.98,1238.94,7,0,Fashion,283.19
+CUST_0158,Female,36,North America,Budget,PayPal,35.5,53,8,186.88,1495.01,34,2,Home & Garden,442.19
+CUST_0159,Male,38,North America,Budget,Debit Card,41.8,431,5,66.17,330.86,10,2,Fashion,75.98
+CUST_0160,Female,22,South America,Premium,Credit Card,42.5,548,7,2538.17,17767.2,23,2,Electronics,4299.96
+CUST_0161,Male,35,Europe,Mid-Range,Credit Card,51.9,561,3,317.93,953.8,7,2,Beauty,147.02
+CUST_0162,Male,45,South America,Mid-Range,Credit Card,35.4,244,1,313.39,313.39,2,0,Sports,106.23
+CUST_0163,Female,59,Asia,Budget,Bank Transfer,41.0,393,5,102.27,511.37,12,0,Books,149.66
+CUST_0164,Female,39,South America,Premium,PayPal,46.3,237,4,2587.12,10348.49,11,0,Electronics,2682.11
+CUST_0165,Female,38,North America,Mid-Range,Credit Card,30.3,51,4,300.48,1201.9,10,0,Sports,476.01
+CUST_0166,Male,23,North America,Mid-Range,Credit Card,41.0,588,7,488.92,3422.42,20,0,Electronics,1001.69
+CUST_0167,Female,18,Africa,Mid-Range,Credit Card,47.3,260,7,582.54,4077.78,28,2,Home & Garden,886.74
+CUST_0168,Male,22,Africa,Budget,PayPal,48.6,413,7,150.04,1050.26,23,0,Beauty,259.33
+CUST_0169,Male,58,Asia,Budget,Bank Transfer,53.4,787,7,146.02,1022.11,20,2,Fashion,196.88
+CUST_0170,Female,29,Europe,Mid-Range,Debit Card,56.2,200,2,494.78,989.57,5,0,Beauty,211.29
+CUST_0171,Female,43,South America,Budget,Bank Transfer,43.5,596,4,60.16,240.65,14,1,Toys,58.09
+CUST_0172,Male,63,Asia,Budget,Credit Card,44.1,20,10,112.15,1121.45,36,1,Electronics,289.91
+CUST_0173,Male,51,Africa,Premium,Bank Transfer,57.8,485,5,1916.33,9581.63,12,1,Sports,1790.34
+CUST_0174,Female,66,South America,Mid-Range,Bank Transfer,35.1,64,3,278.98,836.93,7,0,Food & Grocery,286.13
+CUST_0175,Female,31,Africa,Mid-Range,Debit Card,59.3,66,9,390.07,3510.66,23,0,Books,710.41
+CUST_0176,Female,43,South America,Mid-Range,PayPal,31.5,677,3,488.84,1466.52,12,1,Books,465.56
+CUST_0177,Male,62,Europe,Mid-Range,PayPal,57.2,1,6,546.42,3278.54,21,1,Beauty,630.48
+CUST_0178,Male,44,Asia,Budget,Bank Transfer,55.7,104,7,107.78,754.46,23,1,Beauty,150.93
+CUST_0179,Male,26,South America,Budget,Bank Transfer,39.5,118,4,167.47,669.89,13,1,Home & Garden,178.07
+CUST_0180,Male,43,North America,Budget,PayPal,55.5,134,12,169.49,2033.92,46,3,Electronics,384.79
+CUST_0181,Male,64,North America,Budget,PayPal,33.9,393,2,20.6,41.2,7,0,Beauty,14.58
+CUST_0182,Male,39,South America,Mid-Range,Debit Card,37.7,34,4,509.98,2039.92,13,0,Beauty,649.31
+CUST_0183,Female,64,South America,Budget,Credit Card,46.5,236,9,115.26,1037.35,26,1,Beauty,252.83
+CUST_0184,Male,47,South America,Mid-Range,Bank Transfer,40.6,302,9,543.38,4890.41,32,1,Fashion,1365.14
+CUST_0185,Male,60,North America,Budget,PayPal,58.7,263,4,168.9,675.62,17,0,Home & Garden,138.11
+CUST_0186,Male,65,North America,Budget,Bank Transfer,47.8,210,3,39.57,118.7,7,0,Books,29.8
+CUST_0187,Female,34,South America,Mid-Range,Bank Transfer,47.9,228,5,465.71,2328.56,17,1,Electronics,525.02
+CUST_0188,Male,43,Africa,Budget,PayPal,40.6,196,3,134.39,403.16,11,1,Books,99.3
+CUST_0189,Male,53,Africa,Budget,Debit Card,44.9,177,6,149.04,894.24,21,0,Beauty,239.0
+CUST_0190,Female,18,Europe,Budget,Bank Transfer,42.9,422,7,94.9,664.3,17,1,Books,172.55
+CUST_0191,Male,25,Asia,Budget,Debit Card,52.3,69,7,95.73,670.11,17,0,Toys,153.75
+CUST_0192,Male,66,Africa,Mid-Range,PayPal,27.8,243,8,399.85,3198.77,27,2,Sports,1208.18
+CUST_0193,Male,52,North America,Budget,Credit Card,42.0,258,6,57.11,342.65,11,1,Toys,89.74
+CUST_0194,Male,69,Africa,Budget,Credit Card,31.5,158,9,104.65,941.85,23,2,Sports,318.93
+CUST_0195,Male,32,Europe,Mid-Range,Bank Transfer,28.7,54,6,528.24,3169.41,20,0,Books,1325.2
+CUST_0196,Female,64,Europe,Budget,PayPal,60.5,1423,1,174.96,174.96,4,0,Books,34.7
+CUST_0197,Female,39,Asia,Premium,Debit Card,37.7,73,5,2887.93,14439.63,21,0,Beauty,4596.18
+CUST_0198,Female,31,Africa,Mid-Range,Bank Transfer,36.3,86,8,624.65,4997.21,27,1,Electronics,1548.72
+CUST_0199,Male,43,North America,Mid-Range,PayPal,57.0,384,7,470.92,3296.42,19,0,Books,693.99
+CUST_0200,Male,45,North America,Mid-Range,PayPal,37.6,817,3,604.52,1813.56,11,0,Fashion,578.8
+CUST_0201,Male,40,South America,Budget,Debit Card,30.7,154,3,72.52,217.57,7,1,Toys,70.87
+CUST_0202,Female,31,North America,Mid-Range,Bank Transfer,42.6,79,5,329.32,1646.59,18,1,Beauty,417.45
+CUST_0203,Male,41,Asia,Budget,PayPal,35.3,186,3,153.84,461.52,10,0,Electronics,156.89
+CUST_0204,Male,19,Asia,Premium,PayPal,51.8,436,5,1423.1,7115.48,11,0,Toys,1648.38
+CUST_0205,Female,62,North America,Budget,PayPal,34.7,145,4,57.63,230.51,8,2,Books,59.79
+CUST_0206,Male,43,North America,Mid-Range,Debit Card,39.0,797,7,478.83,3351.79,28,0,Beauty,1031.33
+CUST_0207,Female,31,South America,Mid-Range,Bank Transfer,49.3,860,3,269.43,808.29,4,1,Sports,163.95
+CUST_0208,Female,68,North America,Budget,Bank Transfer,57.1,191,9,108.97,980.73,27,2,Food & Grocery,183.21
+CUST_0209,Female,24,South America,Budget,Bank Transfer,50.9,353,4,93.53,374.12,10,0,Books,88.2
+CUST_0210,Male,20,South America,Mid-Range,Bank Transfer,46.1,514,3,476.53,1429.58,10,0,Home & Garden,372.13
+CUST_0211,Male,64,North America,Premium,Credit Card,55.5,38,6,2382.08,14292.49,19,1,Books,2832.74
+CUST_0212,Male,40,Europe,Budget,Credit Card,45.4,125,5,154.0,769.99,17,2,Sports,162.82
+CUST_0213,Male,63,Europe,Mid-Range,Bank Transfer,60.8,840,4,506.16,2024.64,15,0,Food & Grocery,399.6
+CUST_0214,Male,60,South America,Premium,Debit Card,28.4,211,3,3128.46,9385.37,13,0,Electronics,3965.65
+CUST_0215,Male,64,North America,Premium,Credit Card,36.3,183,9,1711.64,15404.8,21,2,Beauty,4526.65
+CUST_0216,Male,62,Europe,Budget,PayPal,31.0,785,4,197.39,789.55,16,0,Home & Garden,305.64
+CUST_0217,Female,35,North America,Mid-Range,Credit Card,36.4,206,4,777.35,3109.39,15,1,Beauty,896.94
+CUST_0218,Male,55,North America,Budget,PayPal,51.9,522,3,82.45,247.36,11,0,Books,57.19
+CUST_0219,Female,52,North America,Premium,Bank Transfer,27.7,108,5,3303.98,16519.92,20,2,Beauty,5725.31
+CUST_0220,Male,68,Africa,Mid-Range,Credit Card,43.8,457,6,444.31,2665.86,16,0,Beauty,730.37
+CUST_0221,Male,32,North America,Budget,Debit Card,34.9,116,4,114.02,456.08,11,0,Books,156.82
+CUST_0222,Male,42,Africa,Mid-Range,Credit Card,54.8,386,7,448.3,3138.11,19,1,Sports,638.09
+CUST_0223,Female,54,South America,Budget,Credit Card,43.6,48,5,65.58,327.92,14,0,Beauty,90.25
+CUST_0224,Female,45,Europe,Premium,Credit Card,29.8,287,4,1114.89,4459.55,10,0,Books,1795.8
+CUST_0225,Female,27,Europe,Premium,Bank Transfer,57.3,158,5,2335.06,11675.31,15,0,Beauty,2445.09
+CUST_0226,Female,56,Europe,Mid-Range,Debit Card,31.2,320,4,351.72,1406.89,8,2,Books,405.83
+CUST_0227,Male,34,Europe,Budget,Credit Card,39.6,779,4,123.43,493.71,15,0,Books,149.61
+CUST_0228,Female,56,Europe,Mid-Range,Debit Card,50.7,25,5,330.61,1653.05,15,2,Beauty,313.0
+CUST_0229,Male,39,Europe,Budget,Bank Transfer,32.2,428,2,100.36,200.73,8,0,Fashion,74.8
+CUST_0230,Male,43,Europe,Budget,PayPal,39.1,173,7,90.88,636.17,17,0,Toys,195.24
+CUST_0231,Female,61,South America,Premium,Credit Card,43.6,603,2,3221.48,6442.95,7,0,Fashion,1773.29
+CUST_0232,Female,42,North America,Budget,Debit Card,40.1,150,10,117.61,1176.1,28,1,Beauty,334.35
+CUST_0233,Female,34,Asia,Budget,Debit Card,54.1,171,3,147.74,443.22,12,1,Home & Garden,81.93
+CUST_0234,Female,30,Africa,Premium,Bank Transfer,55.7,279,6,2491.61,14949.66,21,0,Sports,3220.75
+CUST_0235,Female,37,Asia,Budget,Credit Card,48.2,317,7,97.09,679.65,19,3,Fashion,132.94
+CUST_0236,Female,42,Asia,Budget,PayPal,34.9,266,4,147.55,590.21,14,0,Beauty,202.93
+CUST_0237,Female,21,North America,Premium,Debit Card,55.4,461,3,2725.75,8177.25,10,2,Electronics,1180.83
+CUST_0238,Female,27,North America,Budget,Credit Card,42.5,422,7,77.47,542.31,14,0,Books,153.12
+CUST_0239,Male,20,North America,Mid-Range,PayPal,28.4,234,5,345.12,1725.61,14,0,Electronics,729.13
+CUST_0240,Female,58,Europe,Premium,Debit Card,34.3,219,5,2247.93,11239.67,17,1,Books,3539.02
+CUST_0241,Female,62,South America,Premium,Debit Card,29.4,49,6,2821.97,16931.8,19,0,Fashion,6910.95
+CUST_0242,Male,35,Europe,Mid-Range,PayPal,42.8,165,7,414.41,2900.87,23,1,Beauty,755.23
+CUST_0243,Female,64,South America,Budget,PayPal,29.6,584,3,157.54,472.63,10,0,Sports,191.6
+CUST_0244,Male,53,South America,Budget,Bank Transfer,60.9,130,7,132.5,927.5,27,1,Books,169.7
+CUST_0245,Male,64,Asia,Premium,Credit Card,40.5,87,6,1608.96,9653.76,15,2,Electronics,2383.64
+CUST_0246,Female,39,Asia,Premium,Credit Card,49.9,125,6,2438.46,14630.79,21,0,Electronics,3518.42
+CUST_0247,Male,51,South America,Mid-Range,Bank Transfer,44.2,116,8,463.27,3706.17,23,2,Fashion,880.42
+CUST_0248,Male,64,South America,Budget,Debit Card,60.3,214,6,63.6,381.63,13,0,Books,75.94
+CUST_0249,Male,25,Europe,Budget,PayPal,57.1,101,3,160.65,481.95,11,2,Electronics,67.52
+CUST_0250,Male,57,Europe,Budget,PayPal,29.2,211,4,131.02,524.08,12,1,Home & Garden,188.45
+CUST_0251,Female,66,Asia,Mid-Range,PayPal,48.5,341,5,513.77,2568.86,21,1,Sports,572.03
+CUST_0252,Male,61,North America,Mid-Range,Debit Card,30.9,105,7,421.7,2951.91,19,0,Beauty,1146.37
+CUST_0253,Female,36,South America,Premium,PayPal,32.5,34,2,1147.63,2295.26,6,1,Electronics,635.61
+CUST_0254,Male,59,Europe,Mid-Range,PayPal,33.4,116,5,384.4,1921.99,15,0,Home & Garden,690.54
+CUST_0255,Male,58,Asia,Budget,Bank Transfer,50.4,371,4,189.75,759.0,18,0,Books,180.71
+CUST_0256,Male,54,Europe,Mid-Range,Debit Card,52.7,199,7,294.39,2060.72,20,2,Fashion,402.2
+CUST_0257,Male,23,South America,Mid-Range,Credit Card,58.9,755,4,487.08,1948.34,12,0,Beauty,396.94
+CUST_0258,Female,69,South America,Mid-Range,Bank Transfer,52.7,479,3,338.43,1015.29,10,0,Fashion,231.19
+CUST_0259,Female,43,Africa,Mid-Range,Bank Transfer,30.9,113,8,438.5,3507.96,21,2,Beauty,1192.04
+CUST_0260,Male,51,North America,Premium,Credit Card,41.6,330,7,3112.19,21785.32,24,1,Electronics,5835.36
+CUST_0261,Male,62,Africa,Premium,Bank Transfer,28.6,254,3,2762.5,8287.5,14,0,Electronics,3477.27
+CUST_0262,Female,23,Asia,Budget,Debit Card,58.2,27,8,88.77,710.16,29,0,Fashion,146.42
+CUST_0263,Male,54,Europe,Budget,PayPal,58.0,55,5,95.62,478.11,11,0,Sports,98.92
+CUST_0264,Male,50,Asia,Mid-Range,Debit Card,35.9,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0265,Male,39,South America,Budget,Credit Card,44.3,666,4,119.23,476.91,10,0,Sports,129.19
+CUST_0266,Female,38,Africa,Budget,Credit Card,33.1,294,4,148.98,595.94,15,1,Sports,189.04
+CUST_0267,Female,23,Africa,Budget,Bank Transfer,58.6,262,5,181.63,908.14,16,1,Books,167.37
+CUST_0268,Female,23,Africa,Mid-Range,Debit Card,35.0,118,6,454.15,2724.88,20,1,Beauty,856.4
+CUST_0269,Male,65,Asia,Budget,Debit Card,42.7,196,4,114.21,456.83,12,0,Beauty,128.39
+CUST_0270,Male,21,South America,Mid-Range,Credit Card,34.8,954,2,66.6,133.21,2,0,Beauty,45.93
+CUST_0271,Female,47,Europe,Premium,Debit Card,56.6,109,4,1786.47,7145.88,9,1,Fashion,1325.65
+CUST_0272,Female,28,Europe,Budget,Credit Card,56.5,71,4,130.36,521.44,14,0,Beauty,110.75
+CUST_0273,Female,47,Asia,Budget,Debit Card,38.4,82,6,180.89,1085.36,25,1,Books,310.9
+CUST_0274,Female,48,Africa,Budget,Debit Card,44.7,68,6,49.69,298.14,15,1,Books,73.37
+CUST_0275,Male,41,North America,Premium,Debit Card,28.6,48,9,1621.36,14592.26,19,1,Beauty,5782.47
+CUST_0276,Female,26,Asia,Budget,Credit Card,42.2,127,8,121.17,969.33,30,1,Electronics,258.42
+CUST_0277,Male,20,Asia,Budget,Bank Transfer,55.3,57,6,144.37,866.2,21,0,Home & Garden,187.97
+CUST_0278,Female,68,South America,Budget,Debit Card,51.9,550,3,135.65,406.95,6,0,Books,94.09
+CUST_0279,Male,48,Europe,Mid-Range,Credit Card,42.9,113,4,334.73,1338.93,10,0,Toys,374.52
+CUST_0280,Female,57,Asia,Mid-Range,Credit Card,31.1,68,3,653.77,1961.32,9,0,Beauty,756.78
+CUST_0281,Female,54,Asia,Mid-Range,Debit Card,40.2,99,4,438.64,1754.54,11,0,Toys,523.75
+CUST_0282,Female,53,Africa,Premium,Debit Card,46.5,51,4,1320.33,5281.31,9,0,Books,1362.92
+CUST_0283,Female,41,Africa,Budget,Bank Transfer,28.0,636,4,150.33,601.33,13,1,Food & Grocery,225.5
+CUST_0284,Male,48,North America,Premium,Credit Card,53.7,141,4,2274.17,9096.68,12,1,Electronics,1778.68
+CUST_0285,Female,23,South America,Budget,Credit Card,29.2,301,5,51.63,258.13,15,2,Electronics,84.87
+CUST_0286,Male,19,North America,Premium,PayPal,42.5,20,6,2371.97,14231.82,18,1,Beauty,3683.53
+CUST_0287,Male,37,Africa,Mid-Range,Credit Card,35.1,241,2,191.03,382.06,6,0,Beauty,130.62
+CUST_0288,Male,45,Europe,Premium,Bank Transfer,36.0,9,4,2156.97,8627.87,11,0,Food & Grocery,2875.96
+CUST_0289,Male,28,Africa,Budget,PayPal,37.4,448,3,44.69,134.06,8,0,Beauty,43.02
+CUST_0290,Female,21,South America,Budget,PayPal,54.1,35,9,83.26,749.31,22,1,Fashion,156.98
+CUST_0291,Male,32,Africa,Budget,PayPal,36.6,236,4,63.0,251.99,9,0,Toys,82.62
+CUST_0292,Male,23,South America,Budget,Debit Card,50.3,193,5,39.05,195.26,10,1,Toys,41.92
+CUST_0293,Male,66,South America,Budget,Debit Card,47.3,139,4,191.26,765.05,16,2,Fashion,145.57
+CUST_0294,Female,47,South America,Budget,Credit Card,38.0,171,1,287.21,287.21,5,0,Toys,90.7
+CUST_0295,Female,55,South America,Budget,PayPal,38.7,717,5,81.22,406.09,11,0,Food & Grocery,125.92
+CUST_0296,Female,68,South America,Mid-Range,Bank Transfer,48.2,339,3,552.1,1656.3,8,0,Toys,412.36
+CUST_0297,Female,19,Europe,Premium,Debit Card,46.0,55,8,2288.16,18305.3,21,4,Electronics,3581.47
+CUST_0298,Male,32,North America,Mid-Range,Bank Transfer,30.2,230,6,460.24,2761.42,23,0,Books,1097.26
+CUST_0299,Male,28,Asia,Budget,Bank Transfer,43.3,41,2,87.88,175.75,3,0,Sports,48.71
+CUST_0300,Female,25,North America,Mid-Range,Debit Card,45.5,151,8,426.44,3411.52,22,1,Toys,843.51
+CUST_0301,Male,43,South America,Budget,Debit Card,56.8,218,6,95.42,572.51,17,0,Home & Garden,120.95
+CUST_0302,Male,68,Europe,Premium,Debit Card,52.5,106,6,3100.36,18602.16,22,0,Food & Grocery,4251.92
+CUST_0303,Male,62,Africa,Budget,Debit Card,53.2,138,7,97.57,683.02,27,1,Fashion,143.05
+CUST_0304,Female,61,Europe,Mid-Range,PayPal,58.7,113,3,283.49,850.47,10,1,Beauty,144.88
+CUST_0305,Female,22,South America,Premium,PayPal,49.4,256,4,1838.68,7354.7,9,2,Beauty,1339.93
+CUST_0306,Male,23,Europe,Premium,PayPal,60.2,3,8,2052.2,16417.57,19,0,Toys,3272.61
+CUST_0307,Female,43,Europe,Mid-Range,PayPal,40.8,378,5,477.85,2389.25,16,0,Sports,702.72
+CUST_0308,Female,21,South America,Premium,Credit Card,42.0,118,9,2656.39,23907.52,28,2,Electronics,6071.75
+CUST_0309,Female,36,Europe,Premium,PayPal,53.1,7,6,2424.17,14545.03,19,1,Sports,3013.09
+CUST_0310,Female,37,Asia,Mid-Range,Debit Card,40.8,53,7,339.48,2376.38,18,1,Books,649.01
+CUST_0311,Female,50,Asia,Mid-Range,Bank Transfer,53.4,142,7,288.84,2021.88,15,0,Fashion,454.36
+CUST_0312,Male,37,Europe,Mid-Range,PayPal,60.7,300,6,621.87,3731.2,22,0,Books,737.64
+CUST_0313,Female,66,Africa,Mid-Range,Credit Card,58.5,548,3,652.55,1957.66,15,0,Books,401.57
+CUST_0314,Male,29,South America,Mid-Range,Debit Card,36.8,102,6,393.13,2358.78,18,1,Books,705.07
+CUST_0315,Male,64,Asia,Mid-Range,Bank Transfer,39.4,51,9,418.28,3764.53,24,1,Books,1082.86
+CUST_0316,Female,18,Africa,Budget,Bank Transfer,58.9,630,3,49.09,147.27,5,0,Electronics,30.0
+CUST_0317,Male,43,Europe,Budget,PayPal,53.1,51,6,93.23,559.39,17,1,Home & Garden,115.88
+CUST_0318,Male,31,Africa,Budget,Bank Transfer,58.6,60,5,129.77,648.85,19,0,Beauty,132.87
+CUST_0319,Male,55,North America,Budget,PayPal,30.0,266,3,67.37,202.1,4,1,Beauty,67.37
+CUST_0320,Female,54,Asia,Budget,PayPal,59.8,25,4,116.66,466.65,13,0,Sports,93.64
+CUST_0321,Female,28,Europe,Mid-Range,Debit Card,31.6,126,7,563.37,3943.62,23,0,Home & Garden,1497.57
+CUST_0322,Male,53,South America,Budget,Debit Card,49.6,131,2,125.6,251.2,6,0,Books,60.77
+CUST_0323,Female,30,Europe,Premium,Credit Card,58.5,476,3,1601.73,4805.19,10,1,Fashion,821.4
+CUST_0324,Female,60,South America,Budget,Debit Card,43.4,211,3,65.43,196.29,11,0,Electronics,54.27
+CUST_0325,Female,20,Europe,Budget,Debit Card,52.8,7,5,61.01,305.06,10,0,Beauty,69.33
+CUST_0326,Female,50,Africa,Mid-Range,PayPal,51.4,130,5,479.57,2397.84,17,0,Electronics,559.81
+CUST_0327,Male,23,Africa,Mid-Range,Debit Card,38.1,1324,1,159.51,159.51,1,0,Electronics,50.24
+CUST_0328,Male,67,Africa,Budget,PayPal,44.3,752,3,72.18,216.55,8,0,Electronics,58.66
+CUST_0329,Female,27,North America,Premium,PayPal,53.6,226,5,2148.21,10741.04,16,1,Toys,2164.24
+CUST_0330,Female,22,South America,Premium,Debit Card,42.5,50,4,1145.92,4583.68,10,1,Beauty,1132.44
+CUST_0331,Male,40,Africa,Budget,Credit Card,56.4,117,5,135.07,675.35,15,0,Books,143.69
+CUST_0332,Male,27,North America,Budget,Credit Card,36.2,101,7,105.54,738.76,20,1,Electronics,227.41
+CUST_0333,Female,61,South America,Premium,Bank Transfer,29.0,620,6,1730.98,10385.91,19,0,Beauty,4297.61
+CUST_0334,Male,19,Europe,Mid-Range,Bank Transfer,30.8,11,9,556.42,5007.79,32,0,Beauty,1951.08
+CUST_0335,Female,30,North America,Mid-Range,Debit Card,41.4,89,6,517.57,3105.42,21,1,Books,825.11
+CUST_0336,Female,57,Asia,Premium,Credit Card,41.2,108,5,2188.56,10942.8,15,1,Beauty,2868.5
+CUST_0337,Male,19,North America,Budget,PayPal,44.8,160,7,94.66,662.62,15,1,Electronics,164.81
+CUST_0338,Male,37,North America,Mid-Range,Bank Transfer,52.6,53,7,340.96,2386.72,20,3,Toys,427.82
+CUST_0339,Female,18,South America,Budget,PayPal,34.1,269,4,65.65,262.61,9,0,Food & Grocery,92.41
+CUST_0340,Female,54,Europe,Mid-Range,Bank Transfer,44.8,204,4,271.39,1085.57,13,0,Books,290.77
+CUST_0341,Male,26,Asia,Mid-Range,Debit Card,33.4,85,5,853.54,4267.72,19,0,Books,1533.31
+CUST_0342,Female,34,Africa,Mid-Range,Credit Card,47.0,1054,1,636.6,636.6,4,0,Sports,162.54
+CUST_0343,Male,26,Africa,Budget,Bank Transfer,54.4,309,3,103.28,309.85,9,0,Food & Grocery,68.35
+CUST_0344,Female,28,North America,Budget,Credit Card,57.7,416,5,86.1,430.5,12,0,Beauty,89.53
+CUST_0345,Male,32,South America,Mid-Range,PayPal,57.6,494,3,320.08,960.23,9,0,Books,200.05
+CUST_0346,Male,41,South America,Mid-Range,Debit Card,38.4,565,8,507.19,4057.55,27,2,Food & Grocery,1109.48
+CUST_0347,Male,55,Africa,Mid-Range,Credit Card,46.2,50,3,213.6,640.81,10,0,Food & Grocery,166.44
+CUST_0348,Female,52,Asia,Budget,Debit Card,48.8,128,1,95.4,95.4,3,0,Electronics,23.46
+CUST_0349,Female,47,Europe,Premium,Credit Card,46.5,219,5,3303.5,16517.51,18,0,Books,4262.58
+CUST_0350,Male,48,Asia,Budget,PayPal,46.9,1074,2,156.28,312.55,6,1,Food & Grocery,59.98
+CUST_0351,Female,66,Europe,Premium,PayPal,45.0,29,7,2304.88,16134.15,18,0,Beauty,4302.44
+CUST_0352,Male,22,Africa,Budget,Debit Card,31.4,424,2,31.06,62.13,6,0,Home & Garden,23.74
+CUST_0353,Male,61,Europe,Mid-Range,PayPal,36.0,245,7,323.49,2264.43,22,0,Books,754.81
+CUST_0354,Female,67,South America,Budget,Bank Transfer,59.1,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0355,Female,31,North America,Premium,Credit Card,37.9,35,5,2432.29,12161.46,12,0,Books,3850.59
+CUST_0356,Male,28,North America,Mid-Range,PayPal,38.6,34,3,549.89,1649.68,11,0,Books,512.85
+CUST_0357,Female,26,Africa,Budget,Bank Transfer,38.9,11,7,108.43,758.99,24,0,Fashion,234.14
+CUST_0358,Female,51,South America,Budget,Debit Card,57.6,15,5,111.19,555.96,14,1,Toys,104.24
+CUST_0359,Male,29,Asia,Budget,Bank Transfer,58.8,108,3,67.18,201.54,6,0,Fashion,41.13
+CUST_0360,Male,52,South America,Budget,Debit Card,47.2,136,8,105.8,846.36,29,0,Home & Garden,215.19
+CUST_0361,Female,52,North America,Premium,Debit Card,36.1,22,5,3132.67,15663.35,18,0,Beauty,5206.65
+CUST_0362,Male,18,North America,Mid-Range,Credit Card,49.3,90,9,364.49,3280.4,25,2,Sports,709.76
+CUST_0363,Male,57,South America,Mid-Range,Credit Card,33.6,395,3,513.51,1540.54,10,2,Beauty,366.79
+CUST_0364,Female,39,South America,Mid-Range,Bank Transfer,31.5,42,5,395.06,1975.3,13,2,Food & Grocery,602.0
+CUST_0365,Male,46,North America,Mid-Range,Credit Card,57.2,487,4,377.41,1509.63,10,0,Food & Grocery,316.71
+CUST_0366,Male,25,Asia,Budget,Credit Card,52.4,9,7,63.44,444.11,18,0,Electronics,101.7
+CUST_0367,Female,28,Africa,Budget,Credit Card,54.4,107,4,148.28,593.1,13,0,Beauty,130.84
+CUST_0368,Female,58,Africa,Mid-Range,Bank Transfer,54.4,9,5,263.33,1316.66,10,0,Books,290.44
+CUST_0369,Male,54,South America,Premium,PayPal,42.6,535,4,1498.64,5994.54,11,0,Beauty,1688.61
+CUST_0370,Male,31,Africa,Budget,Credit Card,45.6,327,3,146.7,440.11,11,0,Books,115.82
+CUST_0371,Female,47,North America,Budget,Credit Card,56.1,204,5,154.77,773.87,17,1,Beauty,148.98
+CUST_0372,Female,52,North America,Mid-Range,Bank Transfer,46.5,226,4,409.68,1638.71,11,1,Fashion,370.03
+CUST_0373,Female,38,South America,Premium,PayPal,54.7,433,6,2000.33,12001.98,14,0,Sports,2632.98
+CUST_0374,Female,54,South America,Budget,Credit Card,51.4,584,3,123.51,370.53,7,1,Beauty,72.09
+CUST_0375,Male,22,South America,Mid-Range,Debit Card,45.1,1172,3,510.7,1532.1,12,0,Electronics,407.65
+CUST_0376,Female,36,Asia,Premium,Bank Transfer,52.4,5,6,1687.13,10122.79,17,0,Beauty,2318.19
+CUST_0377,Female,31,Africa,Budget,Credit Card,31.1,72,8,96.85,774.81,20,1,Beauty,280.27
+CUST_0378,Male,43,South America,Budget,Credit Card,29.4,36,8,152.7,1221.62,28,5,Home & Garden,342.8
+CUST_0379,Female,21,Europe,Mid-Range,Debit Card,58.3,60,9,467.65,4208.86,29,4,Food & Grocery,673.8
+CUST_0380,Male,42,Europe,Premium,Debit Card,45.8,65,9,2629.6,23666.36,29,0,Beauty,6200.8
+CUST_0381,Female,62,North America,Budget,Bank Transfer,33.3,190,4,127.03,508.11,16,0,Beauty,183.11
+CUST_0382,Female,59,Africa,Mid-Range,Bank Transfer,31.5,53,8,494.95,3959.59,30,2,Toys,1319.87
+CUST_0383,Female,42,South America,Mid-Range,Debit Card,31.7,1328,3,499.75,1499.25,11,1,Food & Grocery,472.95
+CUST_0384,Male,35,Europe,Mid-Range,Bank Transfer,42.1,287,8,523.18,4185.44,26,1,Food & Grocery,1118.44
+CUST_0385,Male,57,Africa,Mid-Range,Debit Card,57.6,178,4,321.12,1284.49,10,0,Home & Garden,267.6
+CUST_0386,Female,25,North America,Mid-Range,Credit Card,59.2,268,2,457.86,915.73,4,1,Electronics,139.21
+CUST_0387,Male,56,Asia,Mid-Range,Debit Card,38.7,293,9,335.64,3020.79,21,1,Beauty,884.63
+CUST_0388,Male,57,Africa,Mid-Range,Debit Card,42.5,187,3,435.95,1307.85,10,2,Books,246.18
+CUST_0389,Male,31,Africa,Mid-Range,PayPal,32.4,295,6,371.54,2229.22,20,0,Toys,825.64
+CUST_0390,Male,49,Asia,Mid-Range,Debit Card,60.4,308,5,519.3,2596.52,16,0,Fashion,515.86
+CUST_0391,Male,68,Africa,Premium,Debit Card,27.8,35,7,1656.35,11594.47,22,0,Electronics,5004.8
+CUST_0392,Male,55,North America,Budget,PayPal,57.7,1,7,192.98,1350.86,29,2,Fashion,240.81
+CUST_0393,Female,50,North America,Premium,Bank Transfer,29.3,300,3,1783.45,5350.35,8,0,Beauty,2191.27
+CUST_0394,Female,40,Asia,Premium,PayPal,35.2,112,8,3468.09,27744.71,31,0,Sports,9458.43
+CUST_0395,Male,32,South America,Budget,Credit Card,31.9,750,2,127.0,254.0,5,0,Beauty,95.55
+CUST_0396,Female,50,Europe,Mid-Range,PayPal,52.8,244,4,144.06,576.22,6,1,Food & Grocery,114.59
+CUST_0397,Female,42,South America,Mid-Range,Credit Card,55.2,162,3,327.14,981.41,8,1,Books,177.79
+CUST_0398,Female,34,Africa,Budget,Bank Transfer,47.0,109,8,126.21,1009.68,31,0,Beauty,257.79
+CUST_0399,Female,50,Europe,Budget,PayPal,44.3,738,5,72.96,364.82,13,0,Sports,98.82
+CUST_0400,Male,64,Asia,Budget,PayPal,44.5,21,6,102.2,613.22,13,2,Fashion,137.8
+CUST_0401,Female,19,Asia,Budget,Bank Transfer,53.6,229,8,79.97,639.77,20,0,Beauty,143.23
+CUST_0402,Female,31,Europe,Premium,Credit Card,31.4,1004,5,2058.65,10293.23,14,1,Beauty,3540.35
+CUST_0403,Male,57,North America,Budget,PayPal,47.2,689,5,96.01,480.06,13,0,Beauty,122.05
+CUST_0404,Male,57,Europe,Premium,Credit Card,30.1,209,6,2990.47,17942.84,21,0,Electronics,7153.28
+CUST_0405,Female,68,Africa,Mid-Range,PayPal,58.9,87,7,387.23,2710.61,20,0,Home & Garden,552.25
+CUST_0406,Female,56,North America,Premium,Debit Card,55.3,180,8,2085.03,16680.23,24,2,Electronics,3167.13
+CUST_0407,Female,68,Asia,Mid-Range,PayPal,48.0,1026,2,911.47,1822.94,9,0,Electronics,455.74
+CUST_0408,Female,23,Europe,Budget,Bank Transfer,60.8,73,8,164.68,1317.42,28,2,Electronics,227.52
+CUST_0409,Female,23,South America,Mid-Range,Bank Transfer,47.6,82,7,460.77,3225.41,19,1,Fashion,755.04
+CUST_0410,Female,20,South America,Budget,Credit Card,51.9,527,1,172.57,172.57,5,1,Toys,19.95
+CUST_0411,Male,24,Africa,Mid-Range,PayPal,29.3,345,9,678.58,6107.24,31,1,Beauty,2362.29
+CUST_0412,Female,68,South America,Premium,Credit Card,34.2,67,4,2638.4,10553.58,12,0,Electronics,3703.02
+CUST_0413,Female,25,Europe,Budget,Credit Card,34.1,445,1,82.53,82.53,3,0,Toys,29.04
+CUST_0414,Male,59,Europe,Budget,Debit Card,45.4,255,3,102.14,306.42,9,0,Sports,80.99
+CUST_0415,Male,69,South America,Mid-Range,Debit Card,51.2,252,4,404.24,1616.96,12,1,Beauty,331.6
+CUST_0416,Male,32,Europe,Premium,Bank Transfer,46.5,56,8,3096.73,24773.88,28,0,Beauty,6393.25
+CUST_0417,Male,64,Africa,Mid-Range,Credit Card,37.1,1036,2,187.26,374.52,2,0,Books,121.14
+CUST_0418,Female,46,North America,Budget,Bank Transfer,28.2,430,1,47.54,47.54,4,0,Home & Garden,20.23
+CUST_0419,Female,50,Africa,Mid-Range,PayPal,36.0,2,6,508.23,3049.39,20,0,Food & Grocery,1016.46
+CUST_0420,Female,69,Africa,Budget,Credit Card,34.2,34,2,63.72,127.44,6,1,Beauty,33.54
+CUST_0421,Female,47,Europe,Mid-Range,Credit Card,41.9,343,5,492.34,2461.68,17,0,Home & Garden,705.02
+CUST_0422,Female,56,North America,Premium,PayPal,38.3,41,4,3214.21,12856.85,14,0,Beauty,4028.25
+CUST_0423,Female,44,Europe,Mid-Range,PayPal,36.4,139,7,429.12,3003.82,18,1,Electronics,919.54
+CUST_0424,Male,53,Asia,Premium,Bank Transfer,44.3,80,6,1356.8,8140.78,12,2,Books,1837.65
+CUST_0425,Female,46,Europe,Budget,Bank Transfer,55.6,145,5,173.65,868.24,20,2,Beauty,149.91
+CUST_0426,Male,55,Europe,Mid-Range,PayPal,54.4,362,4,337.81,1351.24,12,1,Beauty,260.81
+CUST_0427,Male,50,Europe,Premium,Bank Transfer,50.8,64,2,1883.34,3766.68,4,0,Electronics,889.77
+CUST_0428,Female,54,North America,Budget,PayPal,53.5,518,4,160.43,641.72,15,0,Beauty,143.94
+CUST_0429,Male,44,Europe,Premium,Credit Card,27.9,491,6,2820.45,16922.7,21,1,Beauty,6672.03
+CUST_0430,Female,50,North America,Budget,Credit Card,58.9,87,8,146.85,1174.82,25,1,Electronics,224.39
+CUST_0431,Male,21,South America,Mid-Range,Debit Card,41.1,106,2,620.02,1240.05,9,1,Beauty,271.54
+CUST_0432,Female,39,Asia,Premium,Credit Card,35.8,460,6,1890.2,11341.21,16,0,Food & Grocery,3801.52
+CUST_0433,Male,19,North America,Mid-Range,PayPal,42.4,51,2,431.18,862.37,10,0,Books,244.06
+CUST_0434,Female,27,South America,Budget,Bank Transfer,58.8,114,9,124.05,1116.47,29,1,Books,215.19
+CUST_0435,Female,22,North America,Mid-Range,Debit Card,35.4,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0436,Female,27,North America,Mid-Range,Bank Transfer,50.2,29,10,395.59,3955.9,24,1,Beauty,898.35
+CUST_0437,Female,50,Asia,Premium,PayPal,59.0,146,4,2167.46,8669.86,10,1,Toys,1542.94
+CUST_0438,Female,55,Africa,Mid-Range,Credit Card,59.2,650,4,510.98,2043.93,15,0,Beauty,414.31
+CUST_0439,Male,30,Africa,Budget,Debit Card,41.0,375,5,136.96,684.78,20,1,Home & Garden,180.39
+CUST_0440,Male,48,North America,Mid-Range,PayPal,44.6,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0441,Male,64,Europe,Mid-Range,Debit Card,43.8,25,5,789.13,3945.63,20,0,Beauty,1081.0
+CUST_0442,Female,53,South America,Mid-Range,Debit Card,29.5,123,6,824.31,4945.85,25,1,Sports,1844.22
+CUST_0443,Male,62,Europe,Mid-Range,Credit Card,31.8,8,3,366.23,1098.69,9,0,Fashion,414.6
+CUST_0444,Female,41,Europe,Premium,PayPal,42.8,57,4,2080.04,8320.16,13,0,Books,2332.76
+CUST_0445,Female,69,North America,Mid-Range,Bank Transfer,55.5,684,3,664.02,1992.07,10,0,Electronics,430.72
+CUST_0446,Male,32,North America,Mid-Range,Debit Card,59.0,426,4,696.3,2785.2,16,0,Electronics,566.48
+CUST_0447,Male,46,North America,Budget,Debit Card,28.1,179,7,92.97,650.81,21,1,Home & Garden,258.07
+CUST_0448,Female,25,North America,Budget,Bank Transfer,43.6,988,3,43.78,131.33,5,0,Books,36.15
+CUST_0449,Male,22,Africa,Budget,PayPal,58.2,126,7,112.5,787.47,21,1,Books,150.77
+CUST_0450,Female,46,North America,Budget,Debit Card,31.9,117,6,78.63,471.78,17,2,Toys,147.89
+CUST_0451,Female,64,Africa,Mid-Range,Debit Card,54.6,610,3,464.27,1392.8,12,0,Beauty,306.11
+CUST_0452,Female,21,Africa,Mid-Range,Debit Card,58.6,710,4,666.89,2667.55,16,1,Books,477.98
+CUST_0453,Female,29,North America,Mid-Range,PayPal,40.6,172,6,350.19,2101.14,16,0,Toys,621.03
+CUST_0454,Female,62,Asia,Premium,PayPal,58.6,253,3,1882.86,5648.59,9,0,Books,1156.71
+CUST_0455,Male,19,South America,Premium,Bank Transfer,37.9,1,5,1741.54,8707.69,18,0,Beauty,2757.06
+CUST_0456,Male,44,Europe,Premium,PayPal,31.5,45,3,2284.51,6853.52,8,0,Beauty,2610.87
+CUST_0457,Female,48,Africa,Mid-Range,PayPal,52.9,110,3,623.33,1869.99,12,1,Books,353.5
+CUST_0458,Female,68,South America,Mid-Range,Credit Card,47.1,301,5,483.86,2419.28,14,0,Books,616.38
+CUST_0459,Male,68,Asia,Mid-Range,Bank Transfer,56.8,622,2,312.74,625.49,5,0,Electronics,132.14
+CUST_0460,Male,53,Europe,Budget,Debit Card,28.8,295,5,112.98,564.9,17,0,Food & Grocery,235.38
+CUST_0461,Female,53,Europe,Budget,PayPal,30.5,220,9,115.77,1041.9,24,1,Books,387.17
+CUST_0462,Male,43,Africa,Premium,Debit Card,41.5,171,5,1920.26,9601.32,14,2,Toys,2221.02
+CUST_0463,Female,60,North America,Premium,Debit Card,52.5,287,7,2886.69,20206.84,22,1,Beauty,4288.8
+CUST_0464,Male,44,Asia,Budget,Credit Card,41.2,301,3,97.1,291.31,8,1,Electronics,70.7
+CUST_0465,Female,22,Africa,Mid-Range,PayPal,40.6,38,13,664.99,8644.9,51,1,Books,2456.86
+CUST_0466,Male,37,Asia,Premium,Bank Transfer,59.6,148,5,1541.08,7705.39,16,1,Food & Grocery,1396.28
+CUST_0467,Female,28,North America,Budget,PayPal,39.8,129,5,61.03,305.16,12,0,Beauty,92.01
+CUST_0468,Male,27,North America,Budget,Debit Card,58.1,677,2,23.35,46.71,4,0,Fashion,9.65
+CUST_0469,Male,57,Africa,Premium,Bank Transfer,46.6,113,5,1488.49,7442.44,10,0,Home & Garden,1916.51
+CUST_0470,Female,55,North America,Mid-Range,PayPal,38.5,30,5,246.93,1234.64,8,0,Electronics,384.83
+CUST_0471,Male,23,South America,Budget,Debit Card,41.0,234,7,76.89,538.2,19,0,Fashion,157.53
+CUST_0472,Female,25,Europe,Mid-Range,Debit Card,41.6,1336,2,1117.74,2235.48,9,0,Food & Grocery,644.85
+CUST_0473,Male,40,Africa,Premium,Credit Card,43.1,327,5,1708.04,8540.19,12,0,Fashion,2377.78
+CUST_0474,Female,64,Asia,Mid-Range,Credit Card,50.1,273,9,475.04,4275.33,37,0,Electronics,1024.04
+CUST_0475,Male,43,South America,Budget,Credit Card,29.0,34,6,91.12,546.73,17,0,Electronics,226.23
+CUST_0476,Female,63,Africa,Budget,Debit Card,52.0,179,3,139.02,417.06,9,0,Fashion,96.24
+CUST_0477,Male,60,North America,Mid-Range,PayPal,53.9,194,4,337.18,1348.72,14,0,Books,300.27
+CUST_0478,Female,29,North America,Mid-Range,Credit Card,38.1,2,5,537.64,2688.19,16,0,Books,846.68
+CUST_0479,Male,43,North America,Mid-Range,PayPal,36.5,354,3,800.95,2402.84,12,0,Beauty,789.98
+CUST_0480,Female,30,North America,Budget,Credit Card,50.2,153,4,91.68,366.73,12,0,Food & Grocery,87.66
+CUST_0481,Female,57,Asia,Premium,Bank Transfer,52.8,481,7,1182.96,8280.69,15,0,Electronics,1881.98
+CUST_0482,Female,35,South America,Budget,Bank Transfer,51.9,619,3,108.54,325.61,8,0,Books,75.29
+CUST_0483,Male,42,Europe,Budget,Credit Card,47.4,202,7,129.78,908.49,17,1,Books,213.56
+CUST_0484,Female,50,Asia,Budget,Debit Card,56.4,170,1,65.82,65.82,2,0,Fashion,14.0
+CUST_0485,Male,64,Asia,Budget,Credit Card,38.0,96,9,78.57,707.1,25,2,Toys,198.49
+CUST_0486,Female,57,Europe,Mid-Range,Credit Card,38.9,15,4,557.0,2228.01,14,1,Home & Garden,601.39
+CUST_0487,Male,60,Europe,Mid-Range,Debit Card,50.7,627,7,440.18,3081.29,22,2,Fashion,625.11
+CUST_0488,Female,29,North America,Budget,Bank Transfer,45.3,50,6,129.9,779.43,15,0,Food & Grocery,206.46
+CUST_0489,Male,61,Asia,Mid-Range,PayPal,50.1,95,7,557.87,3905.07,22,1,Beauty,868.54
+CUST_0490,Male,53,Africa,Budget,Credit Card,29.2,354,8,99.82,798.54,27,2,Books,287.15
+CUST_0491,Female,65,Europe,Mid-Range,Debit Card,35.3,168,5,302.5,1512.49,9,0,Toys,514.16
+CUST_0492,Male,21,Europe,Premium,Credit Card,29.0,91,9,1522.75,13704.79,24,1,Beauty,5355.88
+CUST_0493,Male,22,South America,Budget,Debit Card,58.4,93,4,72.72,290.86,9,1,Beauty,52.3
+CUST_0494,Female,54,Africa,Mid-Range,PayPal,60.6,79,5,483.09,2415.46,18,0,Electronics,478.31
+CUST_0495,Male,25,Africa,Budget,PayPal,45.3,72,3,132.44,397.32,10,0,Beauty,105.25
+CUST_0496,Male,59,Europe,Budget,Bank Transfer,39.7,141,6,77.96,467.78,12,1,Home & Garden,129.61
+CUST_0497,Male,66,North America,Budget,Debit Card,41.7,239,5,88.7,443.51,14,0,Fashion,127.63
+CUST_0498,Female,45,South America,Mid-Range,Debit Card,57.5,122,6,436.05,2616.31,17,0,Electronics,546.01
+CUST_0499,Male,48,Africa,Mid-Range,Bank Transfer,58.4,219,6,346.9,2081.43,17,2,Fashion,356.4
+CUST_0500,Female,26,Europe,Budget,Bank Transfer,42.6,643,6,128.89,773.34,17,1,Home & Garden,199.69
+CUST_0501,Male,68,Africa,Premium,Debit Card,53.6,141,4,2341.16,9364.66,13,0,Sports,2096.56
+CUST_0502,Male,46,South America,Mid-Range,Bank Transfer,43.6,549,3,272.07,816.21,9,0,Electronics,224.64
+CUST_0503,Male,31,South America,Premium,PayPal,51.9,289,6,2607.38,15644.28,15,1,Beauty,3315.74
+CUST_0504,Female,57,Asia,Mid-Range,Credit Card,56.4,53,2,590.71,1181.42,5,0,Sports,251.37
+CUST_0505,Male,58,Europe,Mid-Range,PayPal,29.1,20,4,635.77,2543.07,13,1,Books,917.61
+CUST_0506,Male,39,South America,Budget,Bank Transfer,49.0,207,1,60.12,60.12,3,0,Toys,14.72
+CUST_0507,Female,28,Asia,Budget,Debit Card,30.8,17,7,174.35,1220.45,24,1,Books,441.54
+CUST_0508,Male,40,Asia,Premium,Debit Card,58.6,638,4,2696.1,10784.42,13,2,Electronics,1656.31
+CUST_0509,Female,18,Africa,Budget,PayPal,30.9,160,8,115.27,922.16,22,1,Fashion,335.74
+CUST_0510,Female,63,Africa,Premium,Debit Card,52.6,123,9,2080.1,18720.91,21,2,Fashion,3796.38
+CUST_0511,Male,54,Asia,Mid-Range,Bank Transfer,48.3,593,5,328.72,1643.61,17,2,Sports,326.68
+CUST_0512,Female,38,Africa,Budget,PayPal,51.2,48,6,187.68,1126.06,24,2,Books,219.94
+CUST_0513,Male,43,South America,Budget,Debit Card,55.5,385,4,135.52,542.06,11,0,Toys,117.21
+CUST_0514,Female,63,North America,Budget,Credit Card,46.0,86,4,110.3,441.18,11,1,Home & Garden,100.71
+CUST_0515,Female,53,South America,Premium,Credit Card,32.5,32,8,1182.22,9457.78,22,2,Home & Garden,3055.58
+CUST_0516,Male,40,Asia,Mid-Range,Bank Transfer,42.4,12,8,552.06,4416.46,24,1,Electronics,1171.83
+CUST_0517,Female,18,Asia,Budget,Debit Card,36.9,21,6,101.43,608.6,14,2,Books,164.93
+CUST_0518,Female,68,South America,Budget,Bank Transfer,50.6,1330,1,68.67,68.67,1,0,Home & Garden,16.29
+CUST_0519,Female,57,Africa,Budget,PayPal,40.0,135,4,98.99,395.95,10,0,Electronics,118.79
+CUST_0520,Female,32,Africa,Mid-Range,Credit Card,33.4,553,4,383.37,1533.49,15,0,Fashion,550.95
+CUST_0521,Female,38,Asia,Budget,PayPal,38.6,168,8,106.36,850.92,24,0,Books,264.52
+CUST_0522,Male,64,Europe,Premium,Debit Card,42.9,335,1,2289.17,2289.17,4,1,Toys,320.16
+CUST_0523,Female,26,Africa,Budget,Bank Transfer,60.6,165,2,146.61,293.21,7,0,Electronics,58.06
+CUST_0524,Male,26,South America,Budget,Bank Transfer,38.1,150,5,150.88,754.39,20,1,Beauty,213.85
+CUST_0525,Female,27,Africa,Mid-Range,Bank Transfer,33.0,283,3,288.87,866.6,8,0,Beauty,315.13
+CUST_0526,Male,69,South America,Mid-Range,PayPal,42.0,282,2,461.68,923.35,7,1,Electronics,197.86
+CUST_0527,Male,43,Asia,Premium,Credit Card,50.7,880,4,3576.94,14307.75,14,2,Beauty,2539.84
+CUST_0528,Female,58,Africa,Mid-Range,PayPal,29.1,203,5,513.57,2567.86,12,0,Books,1058.91
+CUST_0529,Female,52,South America,Budget,PayPal,38.3,132,4,105.04,420.14,8,0,Fashion,131.64
+CUST_0530,Female,69,Asia,Mid-Range,Debit Card,57.4,206,5,333.82,1669.12,15,0,Sports,348.94
+CUST_0531,Male,42,Europe,Budget,Debit Card,28.9,219,4,61.84,247.34,9,0,Sports,102.71
+CUST_0532,Female,43,South America,Budget,Debit Card,30.9,15,11,93.18,1025.01,31,1,Food & Grocery,379.96
+CUST_0533,Male,28,Europe,Premium,Credit Card,56.3,102,7,1164.19,8149.3,14,3,Sports,1364.77
+CUST_0534,Male,55,Europe,Mid-Range,Credit Card,51.9,98,4,353.36,1413.42,14,1,Beauty,285.96
+CUST_0535,Male,19,North America,Premium,Debit Card,57.0,291,4,2093.76,8375.02,12,0,Beauty,1763.17
+CUST_0536,Female,24,Africa,Mid-Range,Debit Card,30.5,116,7,384.8,2693.58,16,1,Books,984.08
+CUST_0537,Female,35,South America,Mid-Range,Credit Card,57.3,62,5,261.63,1308.17,15,0,Home & Garden,273.96
+CUST_0538,Male,44,Europe,Budget,Bank Transfer,35.6,98,4,96.47,385.89,10,0,Electronics,130.07
+CUST_0539,Male,51,North America,Budget,Credit Card,42.0,39,4,167.48,669.93,14,1,Beauty,167.48
+CUST_0540,Female,44,Asia,Premium,Credit Card,55.6,834,3,1029.64,3088.91,7,1,Beauty,555.56
+CUST_0541,Male,34,South America,Budget,Credit Card,51.6,20,5,184.46,922.28,17,1,Fashion,193.04
+CUST_0542,Female,60,Europe,Premium,Debit Card,51.3,65,6,1889.61,11337.65,15,0,Toys,2652.08
+CUST_0543,Male,61,Africa,Mid-Range,Bank Transfer,40.3,216,4,238.1,952.41,6,1,Electronics,248.14
+CUST_0544,Female,68,North America,Budget,Credit Card,53.7,308,6,51.98,311.89,16,0,Home & Garden,69.69
+CUST_0545,Male,41,Europe,Mid-Range,Debit Card,36.4,978,1,166.71,166.71,1,0,Sports,54.96
+CUST_0546,Female,42,Africa,Mid-Range,PayPal,49.2,20,6,471.57,2829.41,18,0,Books,690.1
+CUST_0547,Male,24,Europe,Budget,PayPal,54.0,139,8,137.92,1103.33,29,0,Electronics,245.19
+CUST_0548,Female,69,South America,Premium,Credit Card,37.5,274,7,2968.49,20779.43,25,0,Toys,6649.42
+CUST_0549,Female,23,South America,Mid-Range,PayPal,39.3,33,5,601.43,3007.17,15,0,Toys,918.21
+CUST_0550,Male,41,South America,Budget,Bank Transfer,31.8,724,4,91.72,366.88,14,0,Fashion,138.45
+CUST_0551,Male,50,North America,Mid-Range,PayPal,51.9,115,5,441.64,2208.21,17,1,Fashion,459.51
+CUST_0552,Female,66,South America,Premium,PayPal,43.7,330,4,3443.58,13774.34,14,1,Beauty,3309.62
+CUST_0553,Male,46,Africa,Budget,Bank Transfer,44.2,574,7,93.27,652.91,21,0,Electronics,177.26
+CUST_0554,Female,60,Europe,Premium,Credit Card,52.3,166,6,2355.93,14135.6,23,1,Home & Garden,2973.07
+CUST_0555,Male,39,Asia,Budget,Credit Card,30.0,710,7,140.08,980.53,23,2,Home & Garden,336.19
+CUST_0556,Female,43,Africa,Mid-Range,Bank Transfer,29.9,342,3,565.78,1697.35,10,0,Beauty,681.21
+CUST_0557,Female,45,Africa,Mid-Range,Bank Transfer,32.0,44,5,432.11,2160.53,14,0,Fashion,810.21
+CUST_0558,Female,67,South America,Budget,Bank Transfer,59.2,244,2,138.07,276.14,9,1,Food & Grocery,41.98
+CUST_0559,Female,38,North America,Budget,PayPal,57.8,118,3,116.57,349.7,13,0,Electronics,72.6
+CUST_0560,Female,66,Europe,Mid-Range,Bank Transfer,39.3,353,5,641.03,3205.15,15,0,Food & Grocery,978.67
+CUST_0561,Female,24,North America,Mid-Range,Debit Card,46.5,444,5,261.69,1308.47,15,1,Electronics,303.9
+CUST_0562,Male,34,Europe,Mid-Range,PayPal,32.6,445,7,380.92,2666.46,18,0,Beauty,981.51
+CUST_0563,Male,37,Europe,Budget,Credit Card,51.5,443,4,102.58,410.34,13,0,Books,95.61
+CUST_0564,Male,58,North America,Premium,Credit Card,59.4,2,6,2278.46,13670.76,17,0,Books,2761.77
+CUST_0565,Female,66,Africa,Mid-Range,Credit Card,60.8,681,4,520.24,2080.96,11,0,Sports,410.72
+CUST_0566,Female,37,Europe,Premium,PayPal,49.5,128,6,2248.08,13488.45,20,0,Food & Grocery,3269.93
+CUST_0567,Female,39,North America,Budget,Debit Card,34.6,164,6,88.8,532.78,14,1,Toys,169.39
+CUST_0568,Female,45,Europe,Mid-Range,Bank Transfer,56.5,796,4,487.8,1951.21,16,0,Beauty,414.41
+CUST_0569,Male,57,Asia,Mid-Range,Bank Transfer,39.2,442,4,375.74,1502.94,10,0,Books,460.09
+CUST_0570,Male,66,Africa,Budget,Credit Card,52.0,35,8,55.12,440.94,16,0,Food & Grocery,101.76
+CUST_0571,Female,24,South America,Mid-Range,Credit Card,55.4,24,5,438.96,2194.78,13,3,Books,332.79
+CUST_0572,Male,18,Europe,Budget,PayPal,35.6,318,4,89.56,358.26,13,2,Beauty,90.57
+CUST_0573,Male,49,Asia,Mid-Range,Debit Card,45.8,512,2,472.61,945.22,7,0,Beauty,247.66
+CUST_0574,Female,30,South America,Mid-Range,Bank Transfer,42.1,320,2,613.78,1227.56,5,0,Beauty,349.9
+CUST_0575,Male,47,South America,Budget,PayPal,36.8,239,5,89.97,449.85,12,1,Beauty,132.02
+CUST_0576,Female,40,Europe,Mid-Range,Bank Transfer,46.3,5,9,386.43,3477.84,24,1,Beauty,851.31
+CUST_0577,Male,68,North America,Mid-Range,Credit Card,41.8,232,4,285.09,1140.34,10,0,Beauty,327.38
+CUST_0578,Female,36,Europe,Budget,Bank Transfer,60.6,315,4,37.14,148.55,6,0,Electronics,29.42
+CUST_0579,Female,49,Asia,Premium,Debit Card,57.1,73,9,1723.53,15511.78,20,1,Beauty,3078.81
+CUST_0580,Female,47,South America,Premium,Debit Card,58.3,57,5,2026.68,10133.39,15,0,Books,2085.78
+CUST_0581,Female,46,Europe,Mid-Range,Credit Card,28.7,176,3,762.49,2287.48,12,0,Books,956.43
+CUST_0582,Male,66,North America,Budget,Debit Card,30.8,227,5,159.48,797.41,17,1,Books,279.61
+CUST_0583,Female,62,Europe,Mid-Range,Debit Card,37.3,36,6,541.46,3248.76,22,0,Fashion,1045.18
+CUST_0584,Female,46,Africa,Mid-Range,PayPal,30.1,226,3,527.64,1582.91,11,1,Sports,525.89
+CUST_0585,Female,47,North America,Budget,Bank Transfer,55.8,147,6,92.08,552.5,18,0,Toys,118.81
+CUST_0586,Male,33,Asia,Mid-Range,Credit Card,42.3,214,8,288.53,2308.23,20,3,Beauty,532.04
+CUST_0587,Female,57,South America,Mid-Range,Credit Card,59.7,342,5,474.97,2374.84,14,0,Beauty,477.36
+CUST_0588,Male,36,Europe,Mid-Range,Credit Card,32.4,138,7,227.55,1592.83,18,3,Toys,463.53
+CUST_0589,Female,35,North America,Mid-Range,Credit Card,48.3,95,5,540.6,2703.01,16,1,Food & Grocery,604.4
+CUST_0590,Male,18,Africa,Mid-Range,Credit Card,41.0,74,8,423.18,3385.45,26,1,Beauty,928.93
+CUST_0591,Male,31,North America,Premium,Debit Card,42.1,172,7,2275.61,15929.24,19,2,Electronics,3891.78
+CUST_0592,Female,68,Africa,Budget,PayPal,55.9,58,8,123.98,991.81,30,0,Sports,212.92
+CUST_0593,Male,64,Asia,Mid-Range,Credit Card,46.2,347,3,323.2,969.59,6,0,Home & Garden,251.84
+CUST_0594,Female,67,South America,Premium,PayPal,56.6,318,5,2026.61,10133.06,15,1,Home & Garden,1933.51
+CUST_0595,Female,19,Asia,Mid-Range,PayPal,59.5,30,9,375.95,3383.58,25,0,Food & Grocery,682.4
+CUST_0596,Female,45,Europe,Mid-Range,Debit Card,50.4,20,3,425.05,1275.14,5,0,Toys,303.61
+CUST_0597,Male,66,North America,Mid-Range,Credit Card,48.5,293,5,391.26,1956.32,16,1,Fashion,435.63
+CUST_0598,Male,67,Africa,Mid-Range,Debit Card,30.2,11,5,348.83,1744.17,16,1,Beauty,623.74
+CUST_0599,Female,47,Africa,Premium,Credit Card,29.1,440,3,2830.29,8490.86,10,0,Books,3501.39
+CUST_0600,Female,55,North America,Mid-Range,Debit Card,33.7,416,8,488.26,3906.07,24,1,Food & Grocery,1303.96
+CUST_0601,Male,68,North America,Premium,PayPal,27.7,3,8,1774.5,14195.99,19,0,Food & Grocery,6149.89
+CUST_0602,Female,21,Europe,Budget,Credit Card,31.5,223,5,85.94,429.7,12,0,Beauty,163.7
+CUST_0603,Female,18,Asia,Budget,Bank Transfer,59.6,213,4,189.29,757.15,16,0,Fashion,152.45
+CUST_0604,Female,25,Africa,Mid-Range,PayPal,30.2,35,4,727.62,2910.48,17,1,Fashion,1011.92
+CUST_0605,Male,46,Europe,Budget,Bank Transfer,48.7,430,5,96.12,480.62,14,0,Home & Garden,118.42
+CUST_0606,Male,56,Asia,Budget,PayPal,53.7,1065,1,172.32,172.32,4,0,Books,38.51
+CUST_0607,Male,20,Europe,Budget,Debit Card,37.6,272,7,148.83,1041.8,24,1,Sports,308.74
+CUST_0608,Female,49,Africa,Budget,Credit Card,52.4,79,7,100.19,701.32,21,1,Electronics,149.14
+CUST_0609,Female,27,North America,Budget,PayPal,38.2,395,4,52.56,210.26,8,0,Beauty,66.04
+CUST_0610,Female,27,North America,Premium,Debit Card,57.4,10,3,1462.06,4386.18,6,0,Beauty,916.97
+CUST_0611,Male,36,Asia,Budget,Credit Card,48.8,570,4,62.45,249.8,9,0,Electronics,61.43
+CUST_0612,Female,63,South America,Mid-Range,Credit Card,34.3,358,2,515.2,1030.39,5,0,Books,360.49
+CUST_0613,Female,51,Asia,Mid-Range,PayPal,41.8,85,4,600.59,2402.37,13,2,Books,517.25
+CUST_0614,Female,50,South America,Premium,Credit Card,30.7,193,6,2764.69,16588.12,24,0,Food & Grocery,6483.96
+CUST_0615,Female,40,Europe,Budget,PayPal,31.1,43,5,109.55,547.75,11,0,Fashion,211.35
+CUST_0616,Male,45,Europe,Premium,Credit Card,47.0,30,4,1548.03,6192.12,10,0,Toys,1580.97
+CUST_0617,Male,49,Africa,Mid-Range,Bank Transfer,27.7,331,5,620.52,3102.6,16,0,Books,1344.09
+CUST_0618,Female,67,South America,Mid-Range,Debit Card,39.7,127,7,404.7,2832.93,23,1,Food & Grocery,795.13
+CUST_0619,Male,24,Africa,Mid-Range,Bank Transfer,35.3,284,5,440.47,2202.34,13,2,Fashion,598.94
+CUST_0620,Male,46,North America,Premium,PayPal,55.6,356,5,1846.55,9232.74,14,1,Home & Garden,1793.41
+CUST_0621,Female,25,South America,Budget,Bank Transfer,29.3,82,6,83.36,500.14,16,1,Beauty,187.77
+CUST_0622,Female,18,Asia,Mid-Range,PayPal,29.2,57,9,450.43,4053.86,21,2,Beauty,1480.87
+CUST_0623,Male,20,North America,Mid-Range,Credit Card,52.8,167,7,440.54,3083.78,21,0,Sports,700.86
+CUST_0624,Female,41,North America,Mid-Range,Credit Card,31.4,114,7,466.32,3264.27,18,0,Toys,1247.48
+CUST_0625,Male,40,Asia,Premium,PayPal,55.4,34,8,3401.96,27215.65,33,0,Fashion,5895.09
+CUST_0626,Female,25,North America,Budget,Bank Transfer,27.6,126,7,76.56,535.91,15,1,Books,216.37
+CUST_0627,Male,64,South America,Premium,Credit Card,33.6,215,5,1670.32,8351.6,13,1,Beauty,2684.44
+CUST_0628,Female,54,Africa,Budget,Debit Card,33.2,1103,2,139.32,278.63,6,0,Electronics,100.71
+CUST_0629,Male,20,North America,Budget,Credit Card,54.9,118,6,126.3,757.77,18,2,Electronics,138.03
+CUST_0630,Male,68,South America,Budget,Debit Card,30.8,309,3,78.35,235.05,9,0,Toys,91.58
+CUST_0631,Male,50,Europe,Budget,Bank Transfer,46.8,37,5,76.1,380.52,8,1,Electronics,87.81
+CUST_0632,Female,45,South America,Mid-Range,Debit Card,60.1,423,3,324.46,973.37,12,0,Books,194.35
+CUST_0633,Male,64,Africa,Budget,Debit Card,54.8,431,4,109.63,438.53,11,2,Beauty,72.02
+CUST_0634,Male,25,South America,Budget,Debit Card,35.8,198,4,107.05,428.2,14,2,Toys,107.65
+CUST_0635,Female,51,Asia,Premium,Debit Card,29.4,89,5,1810.07,9050.35,10,0,Electronics,3694.02
+CUST_0636,Female,52,Africa,Premium,Credit Card,49.6,708,3,2789.28,8367.85,10,1,Electronics,1687.06
+CUST_0637,Male,49,Europe,Premium,Debit Card,34.2,253,4,1096.19,4384.75,7,0,Home & Garden,1538.51
+CUST_0638,Male,41,Asia,Premium,Credit Card,29.1,1241,1,2012.68,2012.68,2,0,Toys,829.97
+CUST_0639,Female,31,South America,Mid-Range,Debit Card,46.9,24,5,246.1,1230.48,10,0,Food & Grocery,314.84
+CUST_0640,Female,49,Africa,Budget,PayPal,33.5,165,8,83.11,664.88,20,2,Toys,208.4
+CUST_0641,Female,63,Europe,Budget,Bank Transfer,38.1,547,9,104.21,937.86,31,1,Home & Garden,278.99
+CUST_0642,Female,60,Asia,Mid-Range,Debit Card,31.4,255,11,359.38,3953.13,32,3,Home & Garden,1304.76
+CUST_0643,Female,33,Europe,Budget,PayPal,35.8,422,3,112.28,336.85,9,1,Fashion,94.09
+CUST_0644,Male,21,South America,Mid-Range,Debit Card,33.2,2,11,426.87,4695.6,30,0,Electronics,1697.19
+CUST_0645,Female,69,Europe,Budget,Debit Card,52.4,28,7,138.11,966.77,29,1,Home & Garden,205.58
+CUST_0646,Male,54,North America,Budget,Debit Card,51.8,51,7,62.4,436.79,19,2,Beauty,86.73
+CUST_0647,Male,38,Asia,Mid-Range,PayPal,55.5,159,6,361.71,2170.24,14,0,Toys,469.25
+CUST_0648,Male,31,Europe,Mid-Range,Bank Transfer,34.0,1056,1,878.77,878.77,5,0,Food & Grocery,310.15
+CUST_0649,Female,48,South America,Mid-Range,PayPal,37.0,165,5,466.65,2333.26,14,1,Books,681.06
+CUST_0650,Male,65,South America,Mid-Range,Bank Transfer,57.2,114,7,348.45,2439.12,19,0,Beauty,511.71
+CUST_0651,Male,35,Europe,Budget,Debit Card,47.9,51,9,130.59,1175.27,32,2,Electronics,261.73
+CUST_0652,Female,24,South America,Budget,Credit Card,31.1,41,4,65.57,262.29,12,2,Books,75.9
+CUST_0653,Male,27,Africa,Premium,Debit Card,59.6,654,5,963.46,4817.32,11,3,Beauty,678.95
+CUST_0654,Male,24,Africa,Mid-Range,Bank Transfer,31.6,387,5,245.29,1226.46,8,0,Home & Garden,465.74
+CUST_0655,Female,50,Africa,Budget,PayPal,44.9,39,5,138.59,692.97,19,0,Sports,185.2
+CUST_0656,Male,40,North America,Premium,Debit Card,53.3,115,3,570.66,1711.99,6,1,Electronics,321.2
+CUST_0657,Male,38,Europe,Budget,PayPal,54.1,195,1,161.72,161.72,3,0,Electronics,35.87
+CUST_0658,Male,36,North America,Mid-Range,PayPal,33.0,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0659,Female,65,South America,Budget,PayPal,29.6,28,6,100.04,600.27,16,3,Electronics,182.51
+CUST_0660,Female,36,North America,Mid-Range,Debit Card,45.2,241,3,311.24,933.72,6,0,Home & Garden,247.89
+CUST_0661,Female,53,South America,Mid-Range,PayPal,49.0,221,8,452.84,3622.7,22,1,Fashion,831.75
+CUST_0662,Male,46,South America,Budget,PayPal,50.5,4,5,108.03,540.16,15,1,Beauty,115.52
+CUST_0663,Male,35,Asia,Premium,Debit Card,32.9,104,5,1775.22,8876.08,14,1,Home & Garden,2913.73
+CUST_0664,Female,19,Africa,Mid-Range,PayPal,33.8,871,7,397.08,2779.58,22,0,Books,986.83
+CUST_0665,Male,18,South America,Budget,Debit Card,31.2,372,4,157.42,629.67,13,1,Beauty,211.91
+CUST_0666,Male,64,Asia,Budget,Bank Transfer,53.1,184,4,181.13,724.52,17,0,Electronics,163.73
+CUST_0667,Female,22,Africa,Budget,Bank Transfer,53.3,143,5,85.13,425.67,13,1,Beauty,86.25
+CUST_0668,Female,37,South America,Budget,Bank Transfer,60.1,263,4,184.76,739.04,15,1,Sports,129.12
+CUST_0669,Male,28,South America,Mid-Range,PayPal,38.4,150,2,192.79,385.58,4,0,Electronics,120.49
+CUST_0670,Male,59,North America,Premium,Credit Card,54.3,16,7,2961.01,20727.04,25,2,Home & Garden,3926.2
+CUST_0671,Male,19,North America,Mid-Range,Credit Card,47.3,62,8,620.64,4965.15,29,3,Books,1023.47
+CUST_0672,Female,20,Africa,Budget,PayPal,49.7,1109,4,92.42,369.69,9,0,Fashion,89.26
+CUST_0673,Female,40,South America,Budget,Credit Card,51.4,135,4,90.69,362.75,10,1,Beauty,74.1
+CUST_0674,Female,29,Europe,Budget,Debit Card,31.4,231,4,162.95,651.82,15,1,Toys,217.96
+CUST_0675,Female,37,North America,Mid-Range,Credit Card,58.5,334,3,261.46,784.39,8,1,Home & Garden,134.08
+CUST_0676,Male,22,Africa,Mid-Range,PayPal,27.9,303,7,264.19,1849.36,15,1,Electronics,738.6
+CUST_0677,Female,54,South America,Budget,PayPal,34.5,397,10,117.51,1175.11,29,1,Beauty,388.29
+CUST_0678,Female,55,South America,Mid-Range,Debit Card,51.4,458,5,325.89,1629.43,12,0,Books,380.42
+CUST_0679,Female,47,Europe,Premium,Bank Transfer,48.9,1062,4,2431.58,9726.32,14,0,Beauty,2386.83
+CUST_0680,Female,26,Africa,Mid-Range,PayPal,39.0,120,7,299.58,2097.05,19,0,Beauty,645.25
+CUST_0681,Female,51,South America,Premium,Debit Card,43.5,93,2,2971.14,5942.28,7,1,Beauty,1229.44
+CUST_0682,Male,61,North America,Mid-Range,Credit Card,47.3,255,4,151.06,604.25,9,1,Books,134.13
+CUST_0683,Male,52,Europe,Mid-Range,Credit Card,37.7,241,3,305.21,915.64,7,0,Electronics,291.45
+CUST_0684,Female,69,Africa,Mid-Range,Debit Card,32.1,750,5,272.11,1360.54,16,1,Fashion,457.76
+CUST_0685,Male,39,Europe,Mid-Range,Debit Card,42.6,275,4,247.91,991.63,9,0,Toys,279.34
+CUST_0686,Female,61,North America,Budget,PayPal,49.6,229,5,80.74,403.72,16,2,Electronics,78.14
+CUST_0687,Female,41,Africa,Budget,Credit Card,28.9,585,3,36.98,110.94,4,0,Fashion,46.07
+CUST_0688,Male,34,Europe,Budget,Debit Card,60.0,115,2,16.54,33.07,3,0,Books,6.62
+CUST_0689,Male,27,Asia,Mid-Range,Credit Card,57.0,57,2,559.45,1118.91,7,0,Fashion,235.56
+CUST_0690,Female,47,North America,Budget,Debit Card,31.0,354,7,121.95,853.62,19,0,Food & Grocery,330.45
+CUST_0691,Female,63,North America,Premium,Credit Card,27.8,264,5,759.19,3795.95,9,1,Home & Garden,1474.69
+CUST_0692,Female,40,North America,Mid-Range,Bank Transfer,52.0,477,2,282.35,564.69,6,0,Beauty,130.32
+CUST_0693,Male,49,Asia,Mid-Range,PayPal,54.8,907,2,780.26,1560.53,8,0,Fashion,341.72
+CUST_0694,Female,34,Asia,Budget,Credit Card,41.1,354,1,55.73,55.73,2,0,Toys,16.27
+CUST_0695,Female,67,South America,Premium,Bank Transfer,28.1,41,4,2588.08,10352.33,10,0,Books,4420.92
+CUST_0696,Female,68,Europe,Premium,Credit Card,51.9,237,2,2248.59,4497.19,8,0,Beauty,1039.81
+CUST_0697,Male,34,South America,Mid-Range,Credit Card,59.6,91,5,402.74,2013.69,13,1,Beauty,364.9
+CUST_0698,Female,31,Europe,Budget,Bank Transfer,57.2,305,6,91.92,551.52,16,0,Beauty,115.7
+CUST_0699,Female,26,Asia,Mid-Range,Credit Card,40.6,61,5,432.75,2163.77,12,1,Beauty,575.58
+CUST_0700,Male,57,Asia,Budget,Credit Card,46.1,16,8,57.13,457.04,21,2,Home & Garden,104.1
+CUST_0701,Female,19,South America,Budget,PayPal,49.1,8,6,117.08,702.49,19,2,Books,143.07
+CUST_0702,Female,62,Africa,Mid-Range,Bank Transfer,36.0,32,7,508.01,3556.09,26,1,Fashion,1100.69
+CUST_0703,Male,42,South America,Mid-Range,Bank Transfer,34.1,69,6,466.39,2798.32,14,0,Beauty,984.75
+CUST_0704,Female,56,Europe,Mid-Range,Debit Card,50.2,217,7,581.39,4069.75,29,0,Home & Garden,972.84
+CUST_0705,Male,26,South America,Premium,Credit Card,46.0,15,8,1483.6,11868.76,19,0,Food & Grocery,3096.21
+CUST_0706,Male,39,North America,Mid-Range,PayPal,40.2,459,2,634.9,1269.81,8,0,Sports,379.04
+CUST_0707,Female,60,Europe,Mid-Range,Credit Card,43.5,527,9,397.8,3580.21,28,2,Beauty,877.9
+CUST_0708,Female,63,Europe,Budget,Credit Card,57.0,40,6,157.89,947.31,19,0,Food & Grocery,199.44
+CUST_0709,Female,21,Africa,Premium,Debit Card,47.8,378,3,3736.49,11209.48,12,0,Beauty,2814.09
+CUST_0710,Female,43,Asia,Budget,Credit Card,30.2,629,1,152.03,152.03,5,0,Home & Garden,60.41
+CUST_0711,Male,46,Europe,Premium,PayPal,41.2,487,6,2603.78,15622.67,24,0,Home & Garden,4550.3
+CUST_0712,Female,62,Asia,Premium,PayPal,54.4,85,7,2238.81,15671.66,22,2,Fashion,2963.13
+CUST_0713,Male,51,South America,Budget,Debit Card,52.2,473,8,83.34,666.7,22,1,Sports,143.69
+CUST_0714,Female,40,North America,Mid-Range,Credit Card,59.4,195,9,316.48,2848.36,25,1,Fashion,543.45
+CUST_0715,Female,54,Africa,Premium,PayPal,36.7,98,10,1941.86,19418.59,27,0,Books,6349.41
+CUST_0716,Female,28,Asia,Mid-Range,Credit Card,46.0,566,3,356.98,1070.93,5,0,Food & Grocery,279.38
+CUST_0717,Male,23,Europe,Premium,Credit Card,60.9,164,6,2208.5,13250.98,20,2,Home & Garden,2175.86
+CUST_0718,Female,35,Asia,Premium,Credit Card,43.2,186,7,1818.2,12727.41,21,1,Sports,3282.86
+CUST_0719,Female,38,Europe,Mid-Range,Debit Card,29.3,191,6,365.64,2193.84,14,1,Home & Garden,823.63
+CUST_0720,Female,59,Asia,Budget,Credit Card,33.4,253,6,153.61,921.66,21,1,Books,303.54
+CUST_0721,Female,53,Europe,Premium,PayPal,42.5,622,2,2190.54,4381.07,5,0,Electronics,1237.01
+CUST_0722,Male,58,South America,Mid-Range,Credit Card,37.5,73,6,495.17,2971.0,21,0,Fashion,950.73
+CUST_0723,Female,55,Europe,Budget,PayPal,36.4,224,2,56.15,112.3,5,0,Beauty,37.02
+CUST_0724,Male,51,Europe,Budget,Credit Card,28.8,261,4,163.8,655.21,11,0,Beauty,273.0
+CUST_0725,Male,34,North America,Mid-Range,PayPal,35.6,48,8,595.02,4760.13,29,0,Beauty,1604.55
+CUST_0726,Male,54,Europe,Premium,PayPal,35.8,253,6,1938.68,11632.1,17,2,Books,3249.18
+CUST_0727,Male,42,North America,Premium,Credit Card,38.0,150,4,2786.6,11146.38,12,0,Beauty,3519.92
+CUST_0728,Male,55,Africa,Mid-Range,Credit Card,54.2,515,3,509.08,1527.25,8,0,Beauty,338.13
+CUST_0729,Male,29,North America,Budget,PayPal,48.5,328,6,93.5,561.01,19,3,Home & Garden,104.1
+CUST_0730,Female,40,South America,Budget,Bank Transfer,46.2,149,4,222.05,888.2,16,1,Fashion,201.86
+CUST_0731,Male,59,North America,Premium,Debit Card,58.5,361,6,2161.19,12967.13,18,2,Beauty,2216.61
+CUST_0732,Male,39,Africa,Budget,Bank Transfer,28.5,627,4,143.01,572.05,17,0,Sports,240.86
+CUST_0733,Male,38,South America,Budget,Bank Transfer,38.2,243,6,105.69,634.16,14,0,Food & Grocery,199.21
+CUST_0734,Female,44,Asia,Budget,Credit Card,29.5,535,3,149.82,449.45,13,1,Fashion,152.36
+CUST_0735,Female,48,Asia,Mid-Range,Debit Card,49.6,438,7,455.38,3187.69,22,0,Books,771.21
+CUST_0736,Male,23,North America,Premium,Bank Transfer,39.6,475,6,2616.51,15699.07,20,1,Toys,4360.85
+CUST_0737,Female,44,North America,Budget,Credit Card,50.2,1445,1,85.65,85.65,2,0,Books,20.47
+CUST_0738,Male,57,Africa,Mid-Range,Bank Transfer,38.3,555,3,530.26,1590.78,10,0,Books,498.42
+CUST_0739,Male,51,Africa,Mid-Range,Bank Transfer,32.0,181,7,469.0,3282.97,23,1,Fashion,1143.19
+CUST_0740,Female,29,Europe,Premium,Credit Card,56.7,1166,2,1812.71,3625.42,8,0,Books,767.28
+CUST_0741,Male,62,Africa,Budget,Credit Card,36.3,689,3,167.87,503.61,13,0,Fashion,166.48
+CUST_0742,Female,24,Europe,Mid-Range,Credit Card,30.2,51,5,362.09,1810.45,12,1,Beauty,647.45
+CUST_0743,Female,27,South America,Budget,Debit Card,50.7,317,6,137.08,822.45,21,0,Home & Garden,194.67
+CUST_0744,Male,62,North America,Premium,Bank Transfer,43.6,1,9,2615.04,23535.38,35,0,Food & Grocery,6477.62
+CUST_0745,Male,34,South America,Mid-Range,Credit Card,50.4,473,6,565.62,3393.75,18,0,Food & Grocery,808.03
+CUST_0746,Female,43,Africa,Budget,PayPal,38.2,387,6,137.69,826.15,17,0,Books,259.52
+CUST_0747,Male,38,South America,Mid-Range,Bank Transfer,47.0,298,3,517.11,1551.33,9,1,Electronics,330.07
+CUST_0748,Male,45,South America,Mid-Range,PayPal,49.8,256,6,336.0,2015.99,16,2,Sports,404.82
+CUST_0749,Male,63,South America,Budget,Debit Card,47.2,45,7,95.82,670.77,25,1,Beauty,158.35
+CUST_0750,Female,19,Africa,Premium,Credit Card,37.1,226,4,1643.87,6575.49,9,0,Books,2126.84
+CUST_0751,Female,60,South America,Budget,PayPal,50.8,219,5,124.37,621.84,15,2,Toys,117.51
+CUST_0752,Male,18,Europe,Mid-Range,Debit Card,42.0,178,6,442.04,2652.24,20,2,Books,631.49
+CUST_0753,Female,68,Africa,Mid-Range,Credit Card,56.6,38,5,690.01,3450.04,19,1,Beauty,658.31
+CUST_0754,Female,53,South America,Mid-Range,PayPal,54.4,238,6,369.21,2215.25,14,0,Electronics,488.66
+CUST_0755,Female,68,Africa,Budget,PayPal,46.6,51,2,14.4,28.8,6,0,Beauty,7.42
+CUST_0756,Female,43,Asia,Premium,Debit Card,38.2,52,6,2158.55,12951.31,13,2,Home & Garden,3390.39
+CUST_0757,Female,46,Europe,Mid-Range,Credit Card,28.8,107,5,584.06,2920.29,18,0,Electronics,1216.79
+CUST_0758,Male,38,South America,Mid-Range,Credit Card,48.0,360,4,439.18,1756.7,14,2,Books,329.38
+CUST_0759,Male,28,Asia,Mid-Range,PayPal,37.8,91,10,326.54,3265.38,25,0,Fashion,1036.63
+CUST_0760,Male,57,Asia,Mid-Range,PayPal,35.4,163,6,472.2,2833.18,18,0,Beauty,960.41
+CUST_0761,Female,28,Africa,Budget,PayPal,30.1,87,6,127.81,766.84,22,0,Beauty,305.72
+CUST_0762,Female,53,Asia,Budget,Credit Card,55.0,38,3,109.18,327.54,7,1,Home & Garden,59.55
+CUST_0763,Male,66,Europe,Premium,Debit Card,39.9,336,5,1862.95,9314.77,13,1,Books,2521.29
+CUST_0764,Female,56,Europe,Budget,Debit Card,41.5,62,7,115.15,806.03,21,1,Beauty,216.43
+CUST_0765,Male,57,North America,Mid-Range,Credit Card,50.6,56,9,474.48,4270.34,33,2,Electronics,900.2
+CUST_0766,Male,52,Europe,Premium,Bank Transfer,47.1,221,2,1298.08,2596.16,3,1,Electronics,496.08
+CUST_0767,Male,51,Asia,Budget,Debit Card,42.2,341,1,131.08,131.08,4,0,Toys,37.27
+CUST_0768,Female,64,Europe,Mid-Range,PayPal,32.5,771,5,566.27,2831.36,14,0,Sports,1045.42
+CUST_0769,Female,41,Africa,Mid-Range,Bank Transfer,60.9,272,2,445.34,890.69,7,0,Beauty,175.5
+CUST_0770,Male,39,North America,Mid-Range,Bank Transfer,50.5,947,2,466.23,932.46,4,0,Food & Grocery,221.57
+CUST_0771,Male,22,Asia,Budget,Debit Card,51.1,2,4,73.82,295.3,8,0,Toys,69.34
+CUST_0772,Male,50,North America,Budget,Bank Transfer,53.7,357,3,76.88,230.63,7,0,Home & Garden,51.54
+CUST_0773,Male,53,Asia,Mid-Range,Bank Transfer,46.2,217,2,458.12,916.23,10,0,Beauty,237.98
+CUST_0774,Female,64,Africa,Premium,Debit Card,34.1,245,6,2797.57,16785.42,20,1,Books,5414.65
+CUST_0775,Female,37,North America,Mid-Range,Debit Card,41.1,128,4,645.36,2581.44,11,1,Toys,659.49
+CUST_0776,Male,36,South America,Mid-Range,Bank Transfer,40.2,52,10,490.42,4904.18,30,3,Fashion,1244.35
+CUST_0777,Male,52,Asia,Budget,PayPal,38.6,274,6,139.55,837.28,21,0,Electronics,260.3
+CUST_0778,Female,69,South America,Mid-Range,Credit Card,49.9,17,3,285.42,856.26,8,0,Beauty,205.91
+CUST_0779,Female,60,North America,Budget,Bank Transfer,45.0,71,4,157.47,629.87,17,0,Home & Garden,167.97
+CUST_0780,Male,34,South America,Premium,Bank Transfer,45.8,540,4,3110.7,12442.78,16,2,Home & Garden,2445.09
+CUST_0781,Male,62,South America,Premium,PayPal,45.8,236,4,3581.1,14324.38,12,0,Home & Garden,3753.12
+CUST_0782,Male,60,North America,Mid-Range,Bank Transfer,37.9,142,12,667.08,8004.98,44,2,Fashion,2323.34
+CUST_0783,Female,51,Africa,Premium,Bank Transfer,53.6,1012,4,1775.07,7100.3,10,0,Toys,1589.61
+CUST_0784,Female,26,South America,Budget,Credit Card,43.5,554,4,189.08,756.31,13,0,Beauty,208.64
+CUST_0785,Female,43,South America,Mid-Range,Credit Card,44.8,175,5,530.65,2653.24,16,0,Beauty,710.69
+CUST_0786,Male,19,Africa,Budget,Credit Card,33.8,265,4,125.99,503.95,11,2,Books,134.19
+CUST_0787,Male,26,South America,Premium,Debit Card,30.2,206,4,2836.43,11345.71,10,0,Books,4508.23
+CUST_0788,Female,26,South America,Budget,Debit Card,28.2,253,6,90.28,541.68,14,2,Books,192.09
+CUST_0789,Female,57,South America,Mid-Range,Credit Card,33.7,32,7,462.39,3236.7,18,1,Beauty,1070.22
+CUST_0790,Male,34,Europe,Premium,Credit Card,35.8,648,3,1794.62,5383.85,9,0,Toys,1804.65
+CUST_0791,Female,18,Africa,Budget,Debit Card,55.1,147,7,82.3,576.09,17,0,Food & Grocery,125.47
+CUST_0792,Female,42,South America,Budget,PayPal,38.4,79,4,70.64,282.56,12,0,Fashion,88.3
+CUST_0793,Male,60,Africa,Mid-Range,Bank Transfer,58.0,1189,1,1016.68,1016.68,4,0,Home & Garden,210.35
+CUST_0794,Female,57,Asia,Mid-Range,Bank Transfer,51.2,672,4,541.26,2165.03,13,0,Toys,507.43
+CUST_0795,Male,59,Asia,Budget,Credit Card,43.3,45,10,121.46,1214.57,28,1,Food & Grocery,319.78
+CUST_0796,Male,42,South America,Budget,PayPal,38.3,548,3,116.44,349.31,14,2,Food & Grocery,72.97
+CUST_0797,Male,56,Africa,Budget,Debit Card,39.3,902,3,93.37,280.12,8,1,Sports,71.27
+CUST_0798,Male,52,Africa,Premium,Credit Card,39.8,39,8,2656.76,21254.06,30,0,Books,6408.27
+CUST_0799,Male,20,Africa,Mid-Range,PayPal,49.5,181,5,619.5,3097.49,16,0,Electronics,750.91
+CUST_0800,Male,67,Europe,Budget,PayPal,57.7,388,3,108.51,325.52,10,1,Books,56.42
+CUST_0801,Male,54,Asia,Budget,PayPal,33.0,141,4,83.24,332.94,13,1,Electronics,105.94
+CUST_0802,Female,61,Africa,Budget,Debit Card,28.4,29,3,126.92,380.76,10,1,Fashion,134.07
+CUST_0803,Male,61,Africa,Budget,Debit Card,35.3,12,5,79.77,398.84,12,0,Books,135.59
+CUST_0804,Male,68,Europe,Mid-Range,Bank Transfer,52.9,570,3,521.04,1563.11,12,1,Books,295.49
+CUST_0805,Female,47,Europe,Budget,Bank Transfer,38.0,321,6,132.8,796.78,18,1,Toys,230.65
+CUST_0806,Female,55,Africa,Budget,PayPal,50.3,27,7,133.74,936.15,23,0,Toys,223.34
+CUST_0807,Female,51,North America,Mid-Range,PayPal,53.2,65,8,199.38,1595.02,15,1,Home & Garden,337.3
+CUST_0808,Male,29,Africa,Budget,Debit Card,33.4,74,6,81.1,486.61,15,0,Books,174.83
+CUST_0809,Female,36,Africa,Mid-Range,Bank Transfer,54.1,163,9,622.65,5603.86,35,0,Food & Grocery,1243.0
+CUST_0810,Male,54,Europe,Mid-Range,PayPal,55.9,50,6,293.2,1759.19,17,2,Fashion,314.7
+CUST_0811,Male,61,Europe,Mid-Range,Bank Transfer,60.1,152,6,465.08,2790.46,16,1,Beauty,510.74
+CUST_0812,Male,66,Africa,Mid-Range,Bank Transfer,59.3,807,4,514.21,2056.83,12,0,Fashion,416.22
+CUST_0813,Male,34,Africa,Mid-Range,PayPal,52.6,610,5,448.68,2243.41,13,0,Beauty,511.8
+CUST_0814,Female,27,Africa,Premium,Debit Card,44.7,268,3,1239.34,3718.03,5,0,Food & Grocery,998.13
+CUST_0815,Female,66,Europe,Mid-Range,PayPal,40.1,367,2,515.24,1030.48,7,0,Books,308.37
+CUST_0816,Male,64,Africa,Mid-Range,PayPal,31.9,171,1,267.56,267.56,2,0,Books,100.65
+CUST_0817,Male,29,Africa,Premium,Bank Transfer,34.7,101,5,2561.88,12809.4,16,0,Home & Garden,4429.76
+CUST_0818,Male,33,South America,Mid-Range,PayPal,58.4,410,6,819.84,4919.01,25,2,Sports,842.3
+CUST_0819,Female,41,North America,Budget,Debit Card,45.4,362,6,113.88,683.26,18,3,Fashion,135.45
+CUST_0820,Male,36,Asia,Budget,PayPal,46.8,202,3,151.5,454.49,12,0,Books,116.54
+CUST_0821,Male,25,North America,Budget,Debit Card,30.7,75,5,95.11,475.55,14,2,Books,148.71
+CUST_0822,Female,48,South America,Premium,Debit Card,39.4,122,3,1456.38,4369.13,6,0,Electronics,1330.7
+CUST_0823,Female,38,Asia,Mid-Range,Bank Transfer,41.3,110,6,406.82,2440.89,22,0,Fashion,709.23
+CUST_0824,Male,34,Africa,Premium,Credit Card,54.3,187,3,2697.5,8092.49,10,0,Toys,1788.4
+CUST_0825,Female,40,South America,Mid-Range,Credit Card,36.4,233,5,331.97,1659.87,13,0,Books,547.2
+CUST_0826,Female,54,Africa,Mid-Range,Bank Transfer,37.1,33,5,480.19,2400.96,13,0,Electronics,776.59
+CUST_0827,Male,33,Europe,Budget,PayPal,47.8,66,8,71.36,570.91,16,1,Toys,134.36
+CUST_0828,Female,23,South America,Mid-Range,Bank Transfer,44.0,254,7,342.04,2394.31,20,0,Beauty,652.99
+CUST_0829,Male,25,Europe,Mid-Range,Debit Card,47.3,109,3,602.98,1808.95,9,0,Books,458.93
+CUST_0830,Female,42,South America,Premium,Credit Card,52.6,112,5,1862.89,9314.47,13,0,Beauty,2124.97
+CUST_0831,Male,35,South America,Budget,Bank Transfer,55.9,139,3,85.47,256.4,11,0,Food & Grocery,55.04
+CUST_0832,Male,42,Europe,Mid-Range,PayPal,38.5,2,3,500.96,1502.89,10,0,Beauty,468.43
+CUST_0833,Male,29,Asia,Mid-Range,Bank Transfer,37.4,31,5,542.67,2713.36,12,1,Beauty,783.53
+CUST_0834,Female,32,North America,Mid-Range,Credit Card,60.7,335,4,353.39,1413.55,16,0,Books,279.45
+CUST_0835,Male,43,Africa,Mid-Range,Bank Transfer,30.4,576,4,415.84,1663.37,14,1,Food & Grocery,574.52
+CUST_0836,Female,58,South America,Mid-Range,Bank Transfer,35.3,116,2,285.84,571.68,5,0,Books,194.34
+CUST_0837,Male,62,Africa,Budget,Credit Card,31.5,755,2,51.94,103.87,6,0,Food & Grocery,39.57
+CUST_0838,Male,43,Europe,Mid-Range,Debit Card,34.6,894,2,576.64,1153.28,6,0,Food & Grocery,399.98
+CUST_0839,Female,64,Africa,Mid-Range,Debit Card,30.7,19,7,543.63,3805.43,19,0,Beauty,1487.46
+CUST_0840,Male,49,Europe,Premium,Credit Card,57.3,80,6,2055.86,12335.14,16,2,Toys,2152.73
+CUST_0841,Male,27,Africa,Premium,Bank Transfer,34.3,115,5,1936.19,9680.95,18,1,Home & Garden,3048.23
+CUST_0842,Female,33,North America,Budget,Credit Card,46.4,10,5,41.84,209.18,12,0,Electronics,54.1
+CUST_0843,Male,24,North America,Budget,Debit Card,53.4,154,7,157.54,1102.78,25,1,Fashion,230.11
+CUST_0844,Male,34,North America,Premium,PayPal,54.9,603,5,2844.84,14224.2,21,1,Sports,2798.2
+CUST_0845,Male,40,North America,Mid-Range,Bank Transfer,33.5,381,6,449.4,2696.43,21,0,Beauty,965.87
+CUST_0846,Male,43,North America,Premium,Debit Card,28.2,142,6,2086.96,12521.79,18,2,Electronics,4440.34
+CUST_0847,Female,38,North America,Budget,Bank Transfer,37.2,50,3,216.53,649.59,11,1,Fashion,174.62
+CUST_0848,Female,39,Europe,Mid-Range,Credit Card,43.2,44,8,483.82,3870.6,25,1,Home & Garden,1007.96
+CUST_0849,Male,24,South America,Premium,PayPal,45.1,627,4,2098.89,8395.54,11,0,Home & Garden,2233.85
+CUST_0850,Female,31,Africa,Premium,Credit Card,59.2,607,3,1023.45,3070.34,4,0,Beauty,622.37
+CUST_0851,Male,32,North America,Budget,PayPal,41.9,59,8,148.66,1189.29,26,1,Fashion,319.32
+CUST_0852,Female,24,Europe,Mid-Range,Bank Transfer,52.4,49,7,441.26,3088.82,17,0,Books,707.36
+CUST_0853,Male,26,Europe,Mid-Range,Bank Transfer,29.6,76,7,408.83,2861.82,24,0,Food & Grocery,1160.19
+CUST_0854,Male,68,Europe,Budget,Credit Card,32.0,16,4,175.09,700.35,17,1,Books,229.81
+CUST_0855,Male,65,South America,Mid-Range,PayPal,56.8,40,10,407.3,4072.99,31,1,Beauty,817.47
+CUST_0856,Male,25,Africa,Mid-Range,PayPal,45.3,213,8,500.16,4001.28,23,0,Toys,1059.94
+CUST_0857,Male,67,South America,Premium,Bank Transfer,56.4,453,6,2688.32,16129.9,23,0,Beauty,3431.9
+CUST_0858,Male,40,Asia,Mid-Range,Credit Card,33.6,245,3,411.43,1234.3,11,0,Electronics,440.82
+CUST_0859,Female,46,Europe,Budget,PayPal,45.1,263,2,182.97,365.94,7,0,Home & Garden,97.37
+CUST_0860,Male,35,Asia,Budget,Bank Transfer,38.1,11,4,156.06,624.25,17,0,Books,196.61
+CUST_0861,Female,48,North America,Mid-Range,Debit Card,42.8,347,6,425.52,2553.13,21,0,Beauty,715.83
+CUST_0862,Male,47,North America,Budget,Credit Card,41.8,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0863,Female,69,South America,Mid-Range,Debit Card,40.6,307,6,327.04,1962.25,22,0,Electronics,579.97
+CUST_0864,Female,56,Africa,Budget,Credit Card,50.1,657,3,94.28,282.85,7,1,Beauty,56.46
+CUST_0865,Female,52,Asia,Premium,Bank Transfer,28.5,408,2,1736.92,3473.85,6,1,Books,1097.0
+CUST_0866,Male,35,Africa,Premium,PayPal,35.1,54,4,2216.12,8864.48,12,1,Fashion,2651.77
+CUST_0867,Male,59,South America,Mid-Range,PayPal,30.5,384,4,425.38,1701.52,9,0,Books,669.45
+CUST_0868,Female,56,North America,Premium,PayPal,45.8,326,8,1789.84,14318.74,24,2,Electronics,3282.68
+CUST_0869,Male,34,Africa,Mid-Range,Credit Card,40.0,15,2,531.42,1062.83,6,1,Food & Grocery,239.14
+CUST_0870,Female,31,Africa,Mid-Range,Bank Transfer,33.1,423,2,580.38,1160.76,6,0,Electronics,420.82
+CUST_0871,Male,48,North America,Budget,Debit Card,36.4,344,3,123.72,371.15,11,1,Books,101.97
+CUST_0872,Female,41,Asia,Mid-Range,Bank Transfer,30.5,429,5,229.47,1147.36,7,0,Beauty,451.42
+CUST_0873,Female,52,North America,Mid-Range,Debit Card,43.7,600,6,315.68,1894.09,16,0,Beauty,520.11
+CUST_0874,Male,61,Africa,Premium,Credit Card,46.4,13,3,1779.22,5337.66,6,0,Home & Garden,1380.43
+CUST_0875,Female,62,Asia,Mid-Range,Credit Card,32.6,1291,1,1014.56,1014.56,5,0,Beauty,373.46
+CUST_0876,Male,51,Asia,Premium,Debit Card,30.0,111,4,1277.82,5111.27,7,0,Books,2044.51
+CUST_0877,Female,20,North America,Mid-Range,Debit Card,42.2,14,3,1007.63,3022.9,14,1,Home & Garden,716.32
+CUST_0878,Female,54,Africa,Budget,Debit Card,45.7,303,6,79.53,477.16,18,1,Books,114.86
+CUST_0879,Male,60,South America,Premium,Bank Transfer,30.3,36,6,3017.94,18107.62,19,2,Electronics,5976.12
+CUST_0880,Male,57,Africa,Mid-Range,Debit Card,55.5,114,9,562.39,5061.52,30,2,Sports,972.78
+CUST_0881,Male,43,Europe,Budget,Credit Card,35.5,23,2,185.21,370.42,9,0,Electronics,125.21
+CUST_0882,Female,40,South America,Mid-Range,Credit Card,31.5,56,3,537.71,1613.14,10,1,Electronics,512.1
+CUST_0883,Male,61,Asia,Budget,PayPal,44.7,53,8,99.48,795.88,27,1,Toys,200.3
+CUST_0884,Female,56,South America,Mid-Range,Debit Card,45.6,60,1,391.84,391.84,4,0,Home & Garden,103.12
+CUST_0885,Female,32,Asia,Mid-Range,Bank Transfer,52.1,201,5,674.05,3370.26,20,1,Toys,698.63
+CUST_0886,Male,66,Asia,Mid-Range,Bank Transfer,35.3,130,5,534.96,2674.82,17,0,Fashion,909.28
+CUST_0887,Male,21,South America,Premium,Bank Transfer,52.5,468,2,3084.32,6168.64,8,0,Home & Garden,1409.97
+CUST_0888,Female,46,Asia,Mid-Range,PayPal,32.2,524,3,513.71,1541.13,8,1,Toys,478.61
+CUST_0889,Female,39,Asia,Budget,Credit Card,39.2,372,2,43.5,86.99,4,0,Books,26.63
+CUST_0890,Male,42,Europe,Mid-Range,Bank Transfer,51.5,123,4,171.05,684.2,7,0,Beauty,159.43
+CUST_0891,Male,30,Africa,Premium,Credit Card,34.8,100,5,2144.89,10724.44,12,0,Food & Grocery,3698.09
+CUST_0892,Male,35,Africa,Budget,PayPal,34.4,8,4,109.84,439.36,13,1,Toys,134.11
+CUST_0893,Male,50,Europe,Budget,Debit Card,43.1,269,1,121.37,121.37,5,0,Toys,33.79
+CUST_0894,Male,33,South America,Budget,Debit Card,44.4,62,4,89.1,356.42,12,1,Books,84.28
+CUST_0895,Female,62,North America,Budget,Debit Card,39.5,308,5,106.82,534.11,13,1,Toys,146.03
+CUST_0896,Female,59,North America,Premium,Bank Transfer,52.8,560,3,1814.22,5442.66,7,0,Beauty,1236.97
+CUST_0897,Female,61,North America,Mid-Range,Debit Card,51.5,577,3,360.67,1082.02,11,0,Home & Garden,252.12
+CUST_0898,Female,19,Europe,Budget,Bank Transfer,45.9,19,6,90.36,542.17,17,0,Home & Garden,141.74
+CUST_0899,Male,52,Europe,Mid-Range,PayPal,58.3,64,7,362.23,2535.64,20,1,Electronics,484.63
+CUST_0900,Male,59,Asia,Budget,PayPal,36.6,5,6,133.73,802.37,17,2,Beauty,219.23
+CUST_0901,Male,51,North America,Premium,Bank Transfer,51.2,220,2,2879.95,5759.9,6,0,Electronics,1349.98
+CUST_0902,Female,47,South America,Premium,Credit Card,52.9,31,7,2025.98,14181.88,21,2,Beauty,2757.48
+CUST_0903,Female,30,South America,Budget,Debit Card,51.6,538,5,122.7,613.51,14,2,Electronics,114.14
+CUST_0904,Male,30,North America,Premium,Debit Card,49.5,175,3,3038.77,9116.32,12,1,Beauty,1841.68
+CUST_0905,Male,35,North America,Mid-Range,Debit Card,50.0,169,3,609.09,1827.28,12,1,Beauty,365.45
+CUST_0906,Female,49,North America,Budget,Bank Transfer,30.4,15,4,69.5,278.0,7,1,Food & Grocery,96.02
+CUST_0907,Female,49,Europe,Budget,PayPal,42.5,47,8,178.94,1431.53,32,0,Beauty,404.19
+CUST_0908,Male,52,Europe,Mid-Range,Debit Card,58.2,247,4,604.37,2417.49,15,0,Beauty,498.45
+CUST_0909,Male,56,Europe,Mid-Range,PayPal,56.2,123,6,249.29,1495.73,14,1,Beauty,292.76
+CUST_0910,Female,63,Africa,Premium,Debit Card,55.8,55,5,1380.44,6902.22,9,0,Sports,1484.34
+CUST_0911,Male,69,South America,Mid-Range,Debit Card,53.0,177,8,411.73,3293.87,24,0,Beauty,745.78
+CUST_0912,Male,46,South America,Premium,Bank Transfer,47.8,41,8,1930.74,15445.92,17,1,Beauty,3635.28
+CUST_0913,Male,66,Asia,Mid-Range,Credit Card,37.2,94,5,500.53,2502.67,16,2,Home & Garden,645.85
+CUST_0914,Female,46,Europe,Premium,Bank Transfer,55.7,86,7,2086.32,14604.23,17,1,Fashion,2921.6
+CUST_0915,Female,61,Africa,Mid-Range,Debit Card,36.8,134,6,544.8,3268.82,20,0,Food & Grocery,1065.91
+CUST_0916,Female,33,Africa,Budget,Debit Card,53.6,37,3,157.32,471.97,12,0,Books,105.66
+CUST_0917,Female,61,South America,Mid-Range,Credit Card,58.7,380,4,392.48,1569.9,14,0,Beauty,320.94
+CUST_0918,Female,64,Europe,Premium,PayPal,46.8,492,7,2460.91,17226.4,19,0,Home & Garden,4417.02
+CUST_0919,Female,27,Asia,Budget,PayPal,47.0,260,5,150.14,750.71,17,0,Food & Grocery,191.67
+CUST_0920,Female,47,Europe,Premium,Debit Card,49.6,1079,2,1673.18,3346.37,3,0,Fashion,809.6
+CUST_0921,Male,42,North America,Budget,PayPal,42.4,9,9,124.89,1124.02,26,2,Electronics,282.77
+CUST_0922,Male,56,Europe,Mid-Range,Debit Card,45.0,196,6,292.96,1757.78,17,1,Toys,429.67
+CUST_0923,Male,37,North America,Premium,Credit Card,46.7,44,3,3676.68,11030.03,10,1,Food & Grocery,2361.89
+CUST_0924,Male,22,North America,Budget,Credit Card,58.8,142,7,82.22,575.53,17,1,Home & Garden,109.07
+CUST_0925,Male,18,Asia,Budget,Debit Card,53.9,58,5,97.11,485.53,15,1,Beauty,97.29
+CUST_0926,Male,47,South America,Mid-Range,Credit Card,32.5,59,3,853.39,2560.17,12,2,Electronics,630.2
+CUST_0927,Male,66,Europe,Premium,Bank Transfer,46.6,146,6,1320.35,7922.09,15,3,Sports,1530.02
+CUST_0928,Female,20,North America,Budget,Bank Transfer,47.6,191,4,54.04,216.15,7,1,Beauty,47.68
+CUST_0929,Female,62,Europe,Premium,Credit Card,30.0,195,2,1677.0,3354.0,5,1,Beauty,1006.2
+CUST_0930,Male,31,South America,Budget,Debit Card,34.6,141,6,95.18,571.07,18,1,Food & Grocery,181.56
+CUST_0931,Male,47,South America,Premium,Debit Card,41.0,291,6,2268.63,13611.8,19,0,Home & Garden,3983.94
+CUST_0932,Female,67,Africa,Premium,Credit Card,28.6,215,5,1940.8,9703.99,14,1,Beauty,3664.45
+CUST_0933,Male,21,South America,Mid-Range,PayPal,37.2,191,5,583.82,2919.12,20,0,Beauty,941.65
+CUST_0934,Male,35,Asia,Mid-Range,Bank Transfer,60.2,164,3,592.42,1777.27,10,1,Books,295.23
+CUST_0935,Female,54,North America,Mid-Range,PayPal,31.7,370,3,386.46,1159.37,7,0,Books,438.88
+CUST_0936,Male,42,Africa,Mid-Range,Debit Card,30.9,463,2,568.56,1137.11,7,1,Fashion,331.2
+CUST_0937,Female,65,Asia,Budget,Debit Card,34.8,965,5,95.56,477.81,15,0,Sports,164.76
+CUST_0938,Male,18,Europe,Budget,PayPal,41.3,563,4,137.07,548.29,13,0,Books,159.31
+CUST_0939,Female,63,North America,Budget,Credit Card,47.9,387,7,146.03,1022.21,27,1,Books,237.79
+CUST_0940,Female,32,South America,Mid-Range,PayPal,44.6,422,5,389.65,1948.27,14,0,Fashion,524.19
+CUST_0941,Female,26,North America,Budget,PayPal,60.7,152,5,88.2,441.02,15,0,Books,87.18
+CUST_0942,Male,32,Europe,Mid-Range,Bank Transfer,28.7,556,3,231.58,694.75,5,0,Beauty,290.48
+CUST_0943,Female,66,Africa,Premium,Bank Transfer,48.9,229,8,1842.52,14740.16,21,2,Fashion,3165.07
+CUST_0944,Male,41,Africa,Budget,PayPal,50.7,84,8,73.35,586.82,22,2,Toys,121.53
+CUST_0945,Male,21,Africa,Mid-Range,PayPal,35.2,771,2,686.76,1373.52,8,1,Beauty,351.18
+CUST_0946,Male,29,South America,Mid-Range,Debit Card,47.6,151,8,260.1,2080.8,24,0,Fashion,524.57
+CUST_0947,Male,54,Asia,Premium,Bank Transfer,31.8,103,4,1701.66,6806.65,9,0,Beauty,2568.54
+CUST_0948,Female,54,Asia,Premium,Bank Transfer,30.5,19,5,1887.95,9439.76,9,1,Toys,3342.6
+CUST_0949,Female,60,North America,Premium,Debit Card,28.4,459,7,1220.9,8546.3,19,0,Food & Grocery,3611.11
+CUST_0950,Male,23,South America,Premium,Credit Card,32.4,542,3,659.51,1978.54,5,0,Books,732.79
+CUST_0951,Male,56,Africa,Budget,Bank Transfer,46.6,330,3,22.93,68.8,3,0,Sports,17.71
+CUST_0952,Female,63,Africa,Premium,Bank Transfer,42.5,1330,1,2214.64,2214.64,4,0,Sports,625.31
+CUST_0953,Male,41,Europe,Mid-Range,Credit Card,35.4,142,10,409.52,4095.16,37,1,Beauty,1318.79
+CUST_0954,Female,28,Europe,Budget,Bank Transfer,35.8,181,9,107.18,964.58,32,0,Home & Garden,323.34
+CUST_0955,Male,30,Africa,Premium,Bank Transfer,42.3,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0956,Male,51,Africa,Budget,Credit Card,33.6,252,3,152.07,456.21,8,1,Toys,135.78
+CUST_0957,Female,42,South America,Mid-Range,Credit Card,40.3,52,9,429.46,3865.17,32,2,Beauty,1023.03
+CUST_0958,Male,24,Asia,Budget,PayPal,30.3,595,3,130.22,390.67,13,1,Fashion,128.93
+CUST_0959,Female,69,Europe,Mid-Range,Debit Card,53.4,1017,2,775.52,1551.05,7,0,Books,348.55
+CUST_0960,Male,21,Asia,Mid-Range,Debit Card,44.3,36,8,397.05,3176.39,23,1,Sports,806.65
+CUST_0961,Male,25,South America,Mid-Range,Credit Card,53.4,196,3,539.14,1617.43,10,1,Toys,302.89
+CUST_0962,Male,37,Africa,Mid-Range,Credit Card,51.6,245,4,561.05,2244.22,11,0,Sports,521.91
+CUST_0963,Female,46,Asia,Budget,Bank Transfer,46.0,123,5,128.9,644.5,15,1,Beauty,151.32
+CUST_0964,Male,68,Africa,Premium,PayPal,44.3,101,2,1625.1,3250.19,9,0,Toys,880.42
+CUST_0965,Male,62,Africa,Budget,PayPal,59.9,247,5,123.83,619.16,18,1,Home & Garden,111.63
+CUST_0966,Male,63,North America,Mid-Range,Credit Card,47.6,743,3,366.67,1100.01,7,0,Electronics,277.31
+CUST_0967,Male,27,Asia,Premium,Bank Transfer,49.4,936,4,1675.52,6702.06,12,0,Fashion,1628.04
+CUST_0968,Female,60,Asia,Premium,Bank Transfer,38.1,656,5,2652.34,13261.68,15,1,Beauty,3759.22
+CUST_0969,Female,51,Africa,Mid-Range,Debit Card,37.7,122,12,516.75,6201.01,40,1,Beauty,1891.55
+CUST_0970,Male,43,South America,Mid-Range,Debit Card,33.7,484,7,390.54,2733.77,17,0,Books,973.45
+CUST_0971,Female,58,North America,Premium,Bank Transfer,47.1,111,8,1342.88,10743.07,19,1,Sports,2566.01
+CUST_0972,Male,66,Africa,Premium,Debit Card,36.2,257,3,3130.7,9392.11,10,0,Beauty,3113.4
+CUST_0973,Male,20,Europe,Mid-Range,Credit Card,55.3,542,5,567.33,2836.65,14,0,Beauty,615.55
+CUST_0974,Male,23,Europe,Budget,Bank Transfer,32.2,462,5,77.91,389.56,14,1,Home & Garden,130.66
+CUST_0975,Female,22,North America,Budget,Debit Card,45.0,88,8,124.26,994.06,25,0,Home & Garden,265.09
+CUST_0976,Female,22,South America,Budget,PayPal,29.5,474,11,100.33,1103.63,36,0,Fashion,448.93
+CUST_0977,Female,64,Africa,Mid-Range,Bank Transfer,56.6,384,5,191.91,959.55,11,0,Food & Grocery,203.44
+CUST_0978,Female,40,Asia,Budget,Bank Transfer,39.7,162,2,82.02,164.04,8,0,Books,49.58
+CUST_0979,Female,66,North America,Mid-Range,PayPal,42.7,999,0,0.0,0.0,0,0,Unknown,0.0
+CUST_0980,Female,26,South America,Budget,Credit Card,60.0,404,6,54.61,327.67,15,0,Fashion,65.53
+CUST_0981,Female,52,Asia,Budget,PayPal,30.0,238,5,89.36,446.78,19,3,Home & Garden,125.1
+CUST_0982,Female,37,Europe,Premium,Bank Transfer,47.5,186,4,1570.19,6280.77,11,1,Fashion,1388.38
+CUST_0983,Female,66,Europe,Mid-Range,Credit Card,40.7,256,6,302.2,1813.22,11,1,Books,490.05
+CUST_0984,Male,59,Asia,Budget,Debit Card,41.7,163,5,79.78,398.91,12,0,Beauty,114.79
+CUST_0985,Female,52,North America,Premium,Debit Card,38.3,81,7,2112.43,14787.04,22,1,Books,4302.08
+CUST_0986,Female,67,Europe,Budget,Debit Card,60.0,37,4,84.18,336.7,9,1,Home & Garden,58.93
+CUST_0987,Female,35,Africa,Mid-Range,Bank Transfer,58.1,434,5,493.56,2467.81,19,0,Sports,509.7
+CUST_0988,Female,34,Asia,Mid-Range,PayPal,39.0,334,7,436.71,3056.98,20,1,Books,873.42
+CUST_0989,Female,41,Asia,Budget,Credit Card,46.3,113,5,165.48,827.4,17,0,Food & Grocery,214.44
+CUST_0990,Female,20,Europe,Premium,Debit Card,56.3,331,7,2252.14,15764.95,25,0,Sports,3360.21
+CUST_0991,Female,49,North America,Mid-Range,Credit Card,31.3,87,6,311.82,1870.94,11,1,Home & Garden,657.51
+CUST_0992,Female,52,Africa,Mid-Range,Bank Transfer,45.2,733,4,999.78,3999.13,19,0,Beauty,1061.71
+CUST_0993,Female,55,North America,Budget,Debit Card,54.7,33,3,184.38,553.14,11,1,Electronics,101.12
+CUST_0994,Female,30,South America,Budget,Bank Transfer,59.2,75,6,128.96,773.77,18,0,Sports,156.84
+CUST_0995,Female,64,South America,Premium,PayPal,52.0,213,3,1969.79,5909.38,11,0,Books,1363.7
+CUST_0996,Male,42,Europe,Budget,Bank Transfer,48.0,423,5,117.25,586.26,17,0,Books,146.56
+CUST_0997,Male,26,Europe,Mid-Range,Bank Transfer,49.7,171,7,601.42,4209.95,21,0,Beauty,1016.48
+CUST_0998,Female,21,Europe,Mid-Range,PayPal,53.7,508,7,578.7,4050.91,23,2,Electronics,775.91
+CUST_0999,Female,31,South America,Mid-Range,Credit Card,45.4,236,6,384.55,2307.3,17,0,Fashion,609.86
+CUST_1000,Male,54,North America,Budget,PayPal,49.8,239,6,106.81,640.88,19,0,Food & Grocery,154.42
